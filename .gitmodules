@@ -1,0 +1,6 @@
+[submodule "lib/PCB-USB-C"]
+	path = lib/PCB-USB-C
+	url = https://github.com/jmgao/PCB-USB-C.git
+[submodule "lib/fm-b2020rgba-hg"]
+	path = lib/fm-b2020rgba-hg
+	url = https://github.com/jmgao/fm-b2020rgba-hg.git
