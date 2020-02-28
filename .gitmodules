@@ -4,3 +4,6 @@
 [submodule "lib/fm-b2020rgba-hg"]
 	path = lib/fm-b2020rgba-hg
 	url = https://github.com/jmgao/fm-b2020rgba-hg.git
+[submodule "lib/E73-2G4M08S1C"]
+	path = lib/E73-2G4M08S1C
+	url = https://github.com/jmgao/E73-2G4M08S1C.git
