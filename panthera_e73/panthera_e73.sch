@@ -287,21 +287,21 @@ Text Label 1050 5400 0    50   ~ 0
 STICK_LEFT
 Text Label 1050 5500 0    50   ~ 0
 STICK_RIGHT
-Text Label 3000 5500 0    50   ~ 0
+Text Label 3400 5550 0    50   ~ 0
 BUTTON_TOUCHPAD
-Text Label 3000 5600 0    50   ~ 0
+Text Label 3400 5650 0    50   ~ 0
 BUTTON_L3
-Text Label 3000 5800 0    50   ~ 0
+Text Label 3400 5850 0    50   ~ 0
 MODE_RS
-Text Label 3000 5900 0    50   ~ 0
+Text Label 3400 5950 0    50   ~ 0
 MODE_LS
-Text Label 3000 6000 0    50   ~ 0
+Text Label 3400 6050 0    50   ~ 0
 MODE_LOCK
-Text Label 3000 6100 0    50   ~ 0
+Text Label 3400 6150 0    50   ~ 0
 BUTTON_PS4
-Text Label 2500 5600 2    50   ~ 0
+Text Label 2900 5650 2    50   ~ 0
 BUTTON_R3
-Text Label 2500 5800 2    50   ~ 0
+Text Label 2900 5850 2    50   ~ 0
 MODE_PS3
 $Comp
 L Connector_Generic:Conn_01x05 J4
@@ -423,9 +423,9 @@ Wire Wire Line
 	4850 6900 4850 7000
 Wire Wire Line
 	4700 6900 4850 6900
-Text Label 3000 5700 0    50   ~ 0
+Text Label 3400 5750 0    50   ~ 0
 GND
-Text Label 2500 5500 2    50   ~ 0
+Text Label 2900 5550 2    50   ~ 0
 GND
 Text Label 1050 5600 0    50   ~ 0
 GND
@@ -443,12 +443,12 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_02x08_Odd_Even J7
 U 1 1 5D9627BB
-P 2700 5800
-F 0 "J7" H 2750 6200 50  0000 C CNN
-F 1 "Conn_02x08_Odd_Even" H 2750 6226 50  0001 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical" H 2700 5800 50  0001 C CNN
-F 3 "~" H 2700 5800 50  0001 C CNN
-	1    2700 5800
+P 3100 5850
+F 0 "J7" H 3150 6250 50  0000 C CNN
+F 1 "Conn_02x08_Odd_Even" H 3150 6276 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical" H 3100 5850 50  0001 C CNN
+F 3 "~" H 3100 5850 50  0001 C CNN
+	1    3100 5850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -808,40 +808,36 @@ Text Label 8200 3200 0    50   ~ 0
 GND
 Text Label 6900 1800 1    50   ~ 0
 GND
-Text Label 3000 6200 0    50   ~ 0
+Text Label 3400 6250 0    50   ~ 0
 +3V3
 $Comp
 L Device:R_US R1
 U 1 1 5E58FDEE
-P 1900 5700
-F 0 "R1" V 1695 5700 50  0000 C CNN
-F 1 "10K" V 1786 5700 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 1940 5690 50  0001 C CNN
-F 3 "~" H 1900 5700 50  0001 C CNN
-	1    1900 5700
-	0    1    1    0   
+P 2350 5600
+F 0 "R1" H 2500 5500 50  0000 C CNN
+F 1 "10K" H 2500 5600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2390 5590 50  0001 C CNN
+F 3 "~" H 2350 5600 50  0001 C CNN
+	1    2350 5600
+	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	1650 5700 1750 5700
-Wire Wire Line
-	2050 5700 2500 5700
 Text Label 1050 4300 0    50   ~ 0
 GND
 Text Label 1050 4700 0    50   ~ 0
 GND
 Text Label 1050 4400 0    50   ~ 0
-TP_SS
-Text Label 1050 4500 0    50   ~ 0
 TP_SCL
-Text Label 1050 4600 0    50   ~ 0
+Text Label 1050 4500 0    50   ~ 0
 TP_SDA
-Text Label 2500 5900 2    50   ~ 0
+Text Label 1050 4600 0    50   ~ 0
+TP_RST
+Text Label 2900 5950 2    50   ~ 0
 LED_P1_K
-Text Label 2500 6000 2    50   ~ 0
+Text Label 2900 6050 2    50   ~ 0
 LED_P2_K
-Text Label 2500 6100 2    50   ~ 0
+Text Label 2900 6150 2    50   ~ 0
 LED_P3_K
-Text Label 2500 6200 2    50   ~ 0
+Text Label 2900 6250 2    50   ~ 0
 LED_P4_K
 Text Label 8200 3800 0    50   ~ 0
 STICK_DOWN
@@ -871,8 +867,6 @@ Text Label 7500 1800 1    50   ~ 0
 LED_P3_K
 Text Label 6750 4100 3    50   ~ 0
 LED_P4_K
-Text Label 1650 5700 2    50   ~ 0
-+3V3
 Text Label 8200 3050 0    50   ~ 0
 BUTTON_TOUCHPAD
 Text Label 8200 2900 0    50   ~ 0
@@ -885,4 +879,22 @@ Text Label 8200 2450 0    50   ~ 0
 MODE_LOCK
 Text Label 7650 1800 1    50   ~ 0
 BUTTON_PS4
+Text Label 2150 5750 2    50   ~ 0
+TP_INT
+Wire Wire Line
+	2150 5750 2350 5750
+Connection ~ 2350 5750
+Wire Wire Line
+	2350 5750 2900 5750
+$Comp
+L power:+3V3 #PWR?
+U 1 1 5E6B75D6
+P 2350 5450
+F 0 "#PWR?" H 2350 5300 50  0001 C CNN
+F 1 "+3V3" H 2365 5623 50  0000 C CNN
+F 2 "" H 2350 5450 50  0001 C CNN
+F 3 "" H 2350 5450 50  0001 C CNN
+	1    2350 5450
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
