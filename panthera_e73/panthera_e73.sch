@@ -831,13 +831,13 @@ Text Label 1050 4500 0    50   ~ 0
 TP_SDA
 Text Label 1050 4600 0    50   ~ 0
 TP_RST
-Text Label 2900 5950 2    50   ~ 0
-LED_P1_K
-Text Label 2900 6050 2    50   ~ 0
-LED_P2_K
-Text Label 2900 6150 2    50   ~ 0
-LED_P3_K
 Text Label 2900 6250 2    50   ~ 0
+LED_P1_K
+Text Label 2900 6150 2    50   ~ 0
+LED_P2_K
+Text Label 2900 6050 2    50   ~ 0
+LED_P3_K
+Text Label 2900 5950 2    50   ~ 0
 LED_P4_K
 Text Label 8200 3800 0    50   ~ 0
 STICK_DOWN
@@ -853,19 +853,19 @@ Text Label 7350 4100 3    50   ~ 0
 TP_SCL
 Text Label 7200 4100 3    50   ~ 0
 TP_SDA
-Text Label 7350 1800 1    50   ~ 0
+Text Label 6750 4100 3    50   ~ 0
 LED_P1_K
 Text Label 7050 1800 1    50   ~ 0
 +3V3
-Text Label 6900 4100 3    50   ~ 0
+Text Label 7500 1800 1    50   ~ 0
 LED_P2_K
 Text Label 7050 4100 3    50   ~ 0
 MODE_PS3
 Text Label 7200 1800 1    50   ~ 0
 BUTTON_R3
-Text Label 7500 1800 1    50   ~ 0
+Text Label 6900 4100 3    50   ~ 0
 LED_P3_K
-Text Label 6750 4100 3    50   ~ 0
+Text Label 7350 1800 1    50   ~ 0
 LED_P4_K
 Text Label 8200 3050 0    50   ~ 0
 BUTTON_TOUCHPAD
