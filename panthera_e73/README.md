@@ -24,3 +24,8 @@ Drop in replacement for the Razer Panthera's PCB, with on-board [Tag-Connect](ht
 | Resistor   | 0603 10kΩ              | 1        | ~$0                                                          |
 | Resistor   | 0603 5.1kΩ             | 2        | ~$0                                                          |
 | Resistor   | 0603 100kΩ             | 1        | ~$0                                                          |
+
+### Notes
+ - R1 is unnecessary, unless you want to probe the touchpad's interrupt pin with a logic analyzer
+ - R2 and R3 are needed only if you're using the USB-C connector
+ - D1-3 are unnecessary, but recommended to protect from static discharge
