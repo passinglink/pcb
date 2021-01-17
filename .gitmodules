@@ -7,3 +7,9 @@
 [submodule "lib/E73-2G4M08S1C"]
 	path = lib/E73-2G4M08S1C
 	url = https://github.com/jmgao/E73-2G4M08S1C.git
+[submodule "lib/kicad-ngff"]
+	path = lib/kicad-ngff
+	url = git@github.com:jmgao/kicad-ngff.git
+[submodule "lib/aw9523btqr"]
+	path = lib/aw9523btqr
+	url = https://github.com/jmgao/aw9523btqr.git

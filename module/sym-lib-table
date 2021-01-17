@@ -2,4 +2,6 @@
   (lib (name PCB-USB-C)(type Legacy)(uri ${KIPRJMOD}/../lib/PCB-USB-C/PCB-USB-C.lib)(options "")(descr ""))
   (lib (name fm-b2020rgba-hg)(type Legacy)(uri ${KIPRJMOD}/../lib/fm-b2020rgba-hg/fm-b2020rgba-hg.lib)(options "")(descr ""))
   (lib (name E73-2G4M08S1C)(type Legacy)(uri ${KIPRJMOD}/../lib/E73-2G4M08S1C/E73-2G4M08S1C.lib)(options "")(descr ""))
+  (lib (name AW9523BTQR)(type Legacy)(uri ${KIPRJMOD}/../lib/aw9523btqr/AW9523BTQR.lib)(options "")(descr ""))
+  (lib (name PassingLink)(type Legacy)(uri ${KIPRJMOD}/../passinglink.lib)(options "")(descr ""))
 )

@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name fm-b2020rgba-hg)(type KiCad)(uri ${KIPRJMOD}/../lib/fm-b2020rgba-hg/fm-b2020rgba-hg.pretty)(options "")(descr ""))
   (lib (name PCB-USB-C)(type KiCad)(uri ${KIPRJMOD}/../lib/PCB-USB-C/PCB-USB-C.pretty)(options "")(descr ""))
+  (lib (name E73-2G4M08S1C)(type KiCad)(uri ${KIPRJMOD}/../lib/E73-2G4M08S1C/E73-2G4M08S1C.pretty)(options "")(descr ""))
+  (lib (name passinglink)(type KiCad)(uri ${KIPRJMOD}/../passinglink.pretty)(options "")(descr ""))
 )
