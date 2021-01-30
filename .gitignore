@@ -1,0 +1,12 @@
+*.imp_meta
+*.gbl
+*.gbo
+*.gbp
+*.gbs
+*.gko
+*.gtl
+*.gto
+*.gtp
+*.gts
+*.zip
+plots/
