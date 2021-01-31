@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "5939d61d-8fa3-4137-a53a-0fcf88e8e197": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "bfe8cef7-b71f-49d4-b7a9-0d46e40517b4"
+        }
+    },
+    "manufacturer": "Richtek",
+    "name": "RT9078",
+    "prefix": "U",
+    "tags": [
+        "pl",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "fe8d73b2-3eb8-4334-9cf6-b152688daf1d"
+}
