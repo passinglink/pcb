@@ -1,0 +1,138 @@
+{
+    "MPN": [
+        false,
+        "TLV320DAC3203IRGET"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/tlv320dac3203.pdf"
+    ],
+    "description": [
+        false,
+        "Ultra Low Power Stereo Audio Codec With Integrated Headphone Amplifiers"
+    ],
+    "entity": "d6288c70-445a-41da-bb46-f2b0cd1e8616",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "57de1d41-994b-473a-a66f-4bc1d31d12b8",
+    "package": "82beb012-b4a4-4c6f-9e75-9eb70f394c5b",
+    "pad_map": {
+        "00b67f22-87e5-48d8-8ad3-c54285d7e16c": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "544a7a58-86fe-43ce-b2bd-e6f9367ab4c7"
+        },
+        "041e4636-cf36-4b9e-9533-2669c0c145ae": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "7f1cbea0-e1ef-4503-8d7e-c3ceedcedac8"
+        },
+        "11f393a3-73ba-4745-bcd6-d32d8457d0ee": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "a244f080-88b2-4d9c-a1a3-fc68feb1fb22"
+        },
+        "1a40528e-2de7-4a2e-a758-fd2c16e1c07f": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "c58733ec-b0b0-4740-b03b-52e65bf9dc66"
+        },
+        "2868dcd6-4976-4738-9ffe-d00d255ede74": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "d3be5d8a-095d-4250-9f35-537f487f4253"
+        },
+        "361f67f0-84cb-4a8c-8cf7-6c76427af50f": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "a8c97791-e696-4533-9e1e-9dcb1527ea48"
+        },
+        "3d2df1fb-bdea-459a-99f5-8baf12cdc9af": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "b6019315-9792-49ca-afe4-ecb72dadbec7"
+        },
+        "5a2d1897-6ccb-40eb-9e85-2685015850eb": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "039b10ed-0ad2-4b82-a681-0c675fd51963"
+        },
+        "5e9dbe82-13b1-4796-88a0-88e066164644": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "8e753a5f-10f7-4913-9a77-6c46fe744081"
+        },
+        "6035982c-4f47-45d3-b66f-a684e6cfec2a": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "fe4f861f-9c0e-4e68-9432-ec2a35f6f098"
+        },
+        "7e849e39-86af-4ed6-acdb-930a3c8c7569": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "181ab036-031e-4b17-8761-dd973d037458"
+        },
+        "90f7c63c-0819-487d-95f1-bfab085ade4a": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "d534a1b6-fd26-4ea4-aff8-fab432348c99"
+        },
+        "9b801829-38c5-45f1-a655-bd34c7a18c5e": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "ebfd069a-cf36-43c8-b7d7-c5f0b4e5115b"
+        },
+        "9dbd20a1-54c8-4fc3-b36c-f06d13b8808b": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "fb4d13ec-22d1-4cab-9aba-d6559f8bb3a2"
+        },
+        "9ddbea20-0a3a-4957-8541-99d007c73c08": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "9dcd99ac-42bf-4cff-afa3-03174d52a36b"
+        },
+        "a21a1022-cbda-4f01-9fea-a3c458bec02e": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "7cd5c184-069a-45fc-aa1b-f5766503707e"
+        },
+        "a5a6fd50-faee-44f6-9b6f-84665330a2cf": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "d534a1b6-fd26-4ea4-aff8-fab432348c99"
+        },
+        "a8893ddd-7e76-4971-b2f0-0effdd1cde9e": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "bbdd79c9-7d69-42ef-9a32-a85ba5b44098"
+        },
+        "a94b58b0-347a-4e9b-83b7-ec84205a8a5d": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "e78af515-98db-41ec-a2ff-1c05aecffd9b"
+        },
+        "d0a13854-ac0c-4790-a8fb-9875fb81b5d6": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "e695327a-75c4-4438-96e1-caed857d435c"
+        },
+        "d3a7b798-246f-4d14-8875-1b12644def1f": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "2e920c6d-1fb2-462f-bf4e-7e211d742777"
+        },
+        "de092010-a655-4ea4-87b3-97fcbe240458": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "cf16bad1-50ad-432d-9848-184ae5d923d4"
+        },
+        "e36b1ab0-1f9c-4eb8-a631-0d8cca96dd5f": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "5ed3dbc8-7000-48b6-bc9f-c95267cc1511"
+        },
+        "e7c161fc-5afe-4d8f-b838-83fe113a3e37": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "45c2be59-1cae-40d9-aa0f-8928ed5c44aa"
+        },
+        "eb997f86-4252-41e2-8df3-ce00974c477e": {
+            "gate": "1c360eea-58ea-4c7c-bf97-9edfde45ff79",
+            "pin": "40ca5c5d-f770-4f30-bedd-55c6d6ce92fa"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "audio",
+        "dac",
+        "ic",
+        "pl"
+    ],
+    "type": "part",
+    "uuid": "aab1b162-0a05-4f22-9cbf-bd3d04d5e8a0",
+    "value": [
+        false,
+        ""
+    ]
+}
