@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "4bb46519-ed69-4da7-b3cb-8bc12f91a554": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 1,
+            "unit": "a57ff65f-748b-4831-999a-9aa04845d3f1"
+        }
+    },
+    "manufacturer": "AWINIC Technology",
+    "name": "AW9523BTQR",
+    "prefix": "U",
+    "tags": [
+        "pl"
+    ],
+    "type": "entity",
+    "uuid": "57c4a026-24a6-4291-b6cb-f126d1034ee2"
+}
