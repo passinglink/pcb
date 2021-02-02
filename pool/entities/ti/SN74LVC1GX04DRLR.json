@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "f70f9c25-c4f9-4b67-9d0c-a1b495635296": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c011875c-b55b-4c70-b3f8-0185a3745725"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "SN74LVC1GX04DRLR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "535bb0aa-e6e9-4576-aa42-ac902e27c008"
+}

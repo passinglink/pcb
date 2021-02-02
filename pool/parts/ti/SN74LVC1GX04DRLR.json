@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "SN74LVC1GX04DRLR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/sn74lvc1gx04.pdf"
+    ],
+    "description": [
+        false,
+        "Crystal Oscillator Driver"
+    ],
+    "entity": "535bb0aa-e6e9-4576-aa42-ac902e27c008",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "4fca71ec-4de4-4f95-a29f-c87c0eda4af5",
+    "pad_map": {
+        "3e1b6402-5a7e-4d7b-9871-8d475696d3e4": {
+            "gate": "f70f9c25-c4f9-4b67-9d0c-a1b495635296",
+            "pin": "00eeac81-3376-40dc-b42f-b90c521642ce"
+        },
+        "b922324e-c0ba-440f-9474-31234d867208": {
+            "gate": "f70f9c25-c4f9-4b67-9d0c-a1b495635296",
+            "pin": "f3af0033-fcf6-4a09-b4d8-44c7b01a029b"
+        },
+        "bfc87cbb-24b7-4b4a-8b65-ecc5f77a04a6": {
+            "gate": "f70f9c25-c4f9-4b67-9d0c-a1b495635296",
+            "pin": "8f2e2a4b-92fb-45ee-bcef-34eff301a6ea"
+        },
+        "dc309492-170a-490f-819f-97783df48883": {
+            "gate": "f70f9c25-c4f9-4b67-9d0c-a1b495635296",
+            "pin": "7a34b3cd-34cc-4331-8cbd-d8cd7c8ca926"
+        },
+        "dd877869-8667-4fcd-a58c-69c987e17c18": {
+            "gate": "f70f9c25-c4f9-4b67-9d0c-a1b495635296",
+            "pin": "0c2b1f75-f759-4c18-87eb-2c7472ab0748"
+        },
+        "e4a89a10-20d1-4ef3-a5be-4ef55efd3f33": {
+            "gate": "f70f9c25-c4f9-4b67-9d0c-a1b495635296",
+            "pin": "56df7b6f-5eb8-439c-9316-32719f176e2f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "driver",
+        "ic",
+        "oscillator"
+    ],
+    "type": "part",
+    "uuid": "f89c2c14-da0d-482f-9591-bdd0f448d945",
+    "value": [
+        false,
+        ""
+    ]
+}

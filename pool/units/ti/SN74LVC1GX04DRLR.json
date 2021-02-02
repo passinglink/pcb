@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "SN74LVC1GX04DRLR",
+    "pins": {
+        "00eeac81-3376-40dc-b42f-b90c521642ce": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "0c2b1f75-f759-4c18-87eb-2c7472ab0748": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "56df7b6f-5eb8-439c-9316-32719f176e2f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Y",
+            "swap_group": 0
+        },
+        "7a34b3cd-34cc-4331-8cbd-d8cd7c8ca926": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "8f2e2a4b-92fb-45ee-bcef-34eff301a6ea": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "X1",
+            "swap_group": 0
+        },
+        "f3af0033-fcf6-4a09-b4d8-44c7b01a029b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "X2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c011875c-b55b-4c70-b3f8-0185a3745725"
+}
