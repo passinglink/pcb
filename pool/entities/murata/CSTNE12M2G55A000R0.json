@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "a836358f-a07b-4ce2-b63e-be57aa88412c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3d16d23a-d2ec-4968-99ac-d2dfcc02424e"
+        }
+    },
+    "manufacturer": "Murata Electronics",
+    "name": "CSTNE12M2G55A000R0",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "af2936d9-7921-4d67-b84b-8882c445d099"
+}
