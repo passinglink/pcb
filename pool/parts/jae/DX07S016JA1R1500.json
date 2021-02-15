@@ -1,0 +1,108 @@
+{
+    "MPN": [
+        false,
+        "DX07S016JA1R1500"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "USB Type-C receptacle"
+    ],
+    "entity": "b3c7f10f-2160-4b68-a38b-10bf0263c097",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "JAE Electronics"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "56f9004f-4539-4afb-a1d2-58477ae3eb5e",
+    "pad_map": {
+        "08794044-5ffe-4407-92bd-25bcdac1f9e5": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "b1c2ee2f-b8be-44c0-9561-79a5d9d6bc0b"
+        },
+        "201a18b5-e135-45ca-95ed-96db673d80b7": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "2544bdfd-daa5-4fbe-8bef-7ba2ff11b303": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "2717d9e3-9712-4526-8024-6efc1e8e0bc0"
+        },
+        "38da3a8e-e472-470e-9438-56f28b8c2686": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "41a527d4-b7c9-493b-b13a-8dab1f27fc6e": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "064529f5-6793-469d-8677-c79fcd871f28"
+        },
+        "41d0c99c-ca33-4257-a162-190e055ca4a6": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "473bb88e-2af2-4024-bfd7-1374e8eefc2c": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "2717d9e3-9712-4526-8024-6efc1e8e0bc0"
+        },
+        "643d158c-4d36-415b-8785-6f50416388f3": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "8adefde6-f9b7-4fed-91ee-55089829bb93"
+        },
+        "997254ed-9f78-4384-9f94-a68b28cbb794": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "63d5899e-90d1-447c-9eaa-1eaf276e807c"
+        },
+        "9fd7f35a-d1f6-41f2-8671-b7cec3583899": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "b1c2ee2f-b8be-44c0-9561-79a5d9d6bc0b"
+        },
+        "a311443d-6bc2-4c68-a0b8-a7e338b0523e": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "aa803ede-06d0-476c-93fd-a14d7244b019": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "064529f5-6793-469d-8677-c79fcd871f28"
+        },
+        "ae3517cd-4c6f-402b-9627-2714dd80bce9": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "7a4448f5-517d-4ec6-97f7-aefcdf13e02d"
+        },
+        "e0788213-ed91-415f-8546-453270475343": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "e362b3c1-6ec6-4490-b0d8-cad7108776ff": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "d9e315ef-20c5-40e4-98ab-e604063682b5"
+        },
+        "e721aabc-8e7e-44af-bc52-a3d72556b6f6": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "f0583fed-df96-4bd3-9e3f-947722b43d88": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "7a4448f5-517d-4ec6-97f7-aefcdf13e02d"
+        },
+        "f3ab9bb9-9f85-495d-963c-351e8eb1440b": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "f075d86c-b10a-412a-b49d-714cc3efcce7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "pl",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "a5403b07-aae8-4dac-a195-c50304438762",
+    "value": [
+        false,
+        ""
+    ]
+}
