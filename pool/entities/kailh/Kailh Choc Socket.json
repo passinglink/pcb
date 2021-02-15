@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "78fcdb24-de07-464a-9495-5e5664767fd7": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d5b9dc4b-7732-477d-bd7a-be760af429d5"
+        }
+    },
+    "manufacturer": "Kailh",
+    "name": "Kailh Choc Socket",
+    "prefix": "S",
+    "tags": [
+        "pl",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "493ab855-219d-4386-bbc3-ed15bc21c1f2"
+}
