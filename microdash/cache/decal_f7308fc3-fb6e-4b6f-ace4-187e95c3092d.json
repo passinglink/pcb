@@ -1,0 +1,5353 @@
+{
+    "arcs": {},
+    "junctions": {
+        "00293d5f-61fc-40be-a475-580fc13638f8": {
+            "position": [
+                16413000,
+                803000
+            ]
+        },
+        "01b52a27-464f-4d86-9e6b-0d58497c7453": {
+            "position": [
+                28397000,
+                271000
+            ]
+        },
+        "02572437-0485-4531-813e-1cf68699335c": {
+            "position": [
+                23319000,
+                0
+            ]
+        },
+        "0512d4e5-5b87-4142-8b23-ad8a251dc7fb": {
+            "position": [
+                23792000,
+                2647000
+            ]
+        },
+        "084fc6cc-9342-45a1-a189-296d320aebec": {
+            "position": [
+                18257000,
+                3278000
+            ]
+        },
+        "0928bbf1-344d-4f2f-b306-c450c0f48b80": {
+            "position": [
+                23161000,
+                365000
+            ]
+        },
+        "096a78dd-1e00-4234-992e-28fdcdab0986": {
+            "position": [
+                17354000,
+                3201000
+            ]
+        },
+        "0a67c1a9-e42e-4a23-9e3e-f418d202ebb7": {
+            "position": [
+                18730000,
+                2824000
+            ]
+        },
+        "0a9eee27-96f8-4fed-bc19-bdbace9ea7b7": {
+            "position": [
+                19542000,
+                2439000
+            ]
+        },
+        "0b159157-fe64-4e3c-9ffd-02b319509958": {
+            "position": [
+                21511000,
+                2608000
+            ]
+        },
+        "0ebaba6a-d6f7-4d80-b92b-0dcd7f3eb600": {
+            "position": [
+                22150000,
+                2816000
+            ]
+        },
+        "0f35d4bd-bb71-4676-9763-a7e730ddb8d6": {
+            "position": [
+                27874000,
+                388000
+            ]
+        },
+        "0f41ff29-de4f-42f3-9647-09cc0d851450": {
+            "position": [
+                19365000,
+                548000
+            ]
+        },
+        "10db3e20-1970-4b29-a292-94938a5cd17c": {
+            "position": [
+                25764000,
+                141000
+            ]
+        },
+        "118a09fe-bb9c-4e52-a056-f9e90fe8ecd8": {
+            "position": [
+                26539000,
+                374000
+            ]
+        },
+        "16484e03-f89d-4f18-bd98-4dfb3e09de52": {
+            "position": [
+                16859000,
+                1155000
+            ]
+        },
+        "1892468c-bd23-42a2-99c1-8ab7b2349ff8": {
+            "position": [
+                18257000,
+                354000
+            ]
+        },
+        "193a91b1-ee1f-4ada-b7f1-bd1ca62ac518": {
+            "position": [
+                16307000,
+                1617000
+            ]
+        },
+        "19bfa6ef-f5c7-4624-98fb-eacff2d0ae1f": {
+            "position": [
+                23715000,
+                133000
+            ]
+        },
+        "1cbd27ab-f16b-4ecf-9ce4-2e36c1915336": {
+            "position": [
+                22687000,
+                -61000
+            ]
+        },
+        "1f325743-8b8c-40ad-85f6-ebbe0db9ab7f": {
+            "position": [
+                28023000,
+                2766000
+            ]
+        },
+        "225625b2-c9f1-43e5-afe6-a20f93bacb21": {
+            "position": [
+                21358000,
+                2381000
+            ]
+        },
+        "2354cbee-11c7-4831-b7dd-092ac520ff9c": {
+            "position": [
+                28522000,
+                0
+            ]
+        },
+        "25e1520f-53d5-4e25-aaa6-05e2486d4d8d": {
+            "position": [
+                21181000,
+                282000
+            ]
+        },
+        "2b31aaee-25d5-46ca-9a28-3d45f4b3b8ad": {
+            "position": [
+                24105000,
+                0
+            ]
+        },
+        "2bf5cbb0-4aa5-42d2-b7bc-da821b964cf2": {
+            "position": [
+                21785000,
+                16000
+            ]
+        },
+        "31f58595-3f01-419d-8e20-81159d70ed2a": {
+            "position": [
+                16839000,
+                1617000
+            ]
+        },
+        "32ec3dd2-a126-47af-a36e-af8b6b47da05": {
+            "position": [
+                23972000,
+                316000
+            ]
+        },
+        "34561d03-8d29-4468-af03-b86b5d87b061": {
+            "position": [
+                21358000,
+                806000
+            ]
+        },
+        "34fcb003-ab9f-4d58-99c3-d31248253367": {
+            "position": [
+                17354000,
+                17000
+            ]
+        },
+        "35306541-2550-4380-8744-ba4e88e60752": {
+            "position": [
+                28112000,
+                3198000
+            ]
+        },
+        "37f50c6f-3f8a-42d8-9d44-6f6eba85216d": {
+            "position": [
+                24105000,
+                4253000
+            ]
+        },
+        "393ff93e-fb16-4028-b7e9-972c5e0de0fd": {
+            "position": [
+                19160000,
+                3201000
+            ]
+        },
+        "3b8ec461-71ea-4691-9f3d-f5a124b23f09": {
+            "position": [
+                28156000,
+                1711000
+            ]
+        },
+        "3ed48055-fbd2-40a0-a432-fb7dfb5cc117": {
+            "position": [
+                20843000,
+                789000
+            ]
+        },
+        "3fddbd73-bbb3-41ce-8bfc-2635c5f30040": {
+            "position": [
+                19763000,
+                288000
+            ]
+        },
+        "421ae0ed-a8c8-4bbf-a55c-bce10dc7090f": {
+            "position": [
+                27107000,
+                1825000
+            ]
+        },
+        "47210709-1139-4af5-9b20-a7742b516c06": {
+            "position": [
+                27805000,
+                -22000
+            ]
+        },
+        "49aca4ed-0553-4b9c-a2ae-599c805af3a9": {
+            "position": [
+                20101000,
+                803000
+            ]
+        },
+        "4a2bd722-da75-4d78-b4f9-13d8250fbedb": {
+            "position": [
+                25897000,
+                3068000
+            ]
+        },
+        "4b9d07db-fcd1-4138-beb0-cff66578c829": {
+            "position": [
+                21181000,
+                2932000
+            ]
+        },
+        "4cb94aaa-9d08-4d58-9268-aec39e052fb2": {
+            "position": [
+                21768000,
+                2747000
+            ]
+        },
+        "4cf00e4a-d776-4d56-b423-770f288bc1af": {
+            "position": [
+                24637000,
+                4253000
+            ]
+        },
+        "4d614a3d-72b7-43b3-80e7-3ce4a52038ad": {
+            "position": [
+                18257000,
+                2835000
+            ]
+        },
+        "4ded21a7-695b-48f5-afa9-a1af78190a81": {
+            "position": [
+                27287000,
+                3278000
+            ]
+        },
+        "5470d683-9f1b-46f9-9c8c-938ee51c2ca5": {
+            "position": [
+                17415000,
+                2772000
+            ]
+        },
+        "59426df5-f778-44e6-b914-21fa923fb14d": {
+            "position": [
+                26088000,
+                1296000
+            ]
+        },
+        "5e38338c-8759-45c6-9560-0ecbdb78275d": {
+            "position": [
+                17338000,
+                446000
+            ]
+        },
+        "60610e5e-577a-47b4-85be-fdb736a6b9db": {
+            "position": [
+                19160000,
+                17000
+            ]
+        },
+        "610f8449-04e8-463a-8e88-66fad05da3fb": {
+            "position": [
+                21270000,
+                1589000
+            ]
+        },
+        "613ae906-9a3c-499c-9e56-4d2c8cac3ac1": {
+            "position": [
+                21768000,
+                443000
+            ]
+        },
+        "61464fec-b5d6-4222-85df-3efd9157e6cd": {
+            "position": [
+                16751000,
+                2938000
+            ]
+        },
+        "624523b4-256e-4ded-9347-2f83799934ef": {
+            "position": [
+                28959000,
+                2370000
+            ]
+        },
+        "6644ada8-0d7c-437d-84cf-d23520717e79": {
+            "position": [
+                27705000,
+                2822000
+            ]
+        },
+        "67d68218-d937-4d79-84ed-60aff5e11364": {
+            "position": [
+                21511000,
+                581000
+            ]
+        },
+        "688bd8dc-8c11-4be8-bb06-9dedfd4ee2f7": {
+            "position": [
+                19096000,
+                2772000
+            ]
+        },
+        "6a507cb0-b40e-46f5-b728-751a6a5d3eaa": {
+            "position": [
+                24105000,
+                473000
+            ]
+        },
+        "6b438b00-c861-4e9b-8a14-910f94510416": {
+            "position": [
+                28176000,
+                94000
+            ]
+        },
+        "6bd02e2a-848c-4c0d-9ed8-75deb1ec2826": {
+            "position": [
+                25864000,
+                886000
+            ]
+        },
+        "6c86fa79-925d-4782-80e1-7d224a7d0c5b": {
+            "position": [
+                24105000,
+                1581000
+            ]
+        },
+        "6d0a5680-f1ee-4d0d-ac75-de839787a254": {
+            "position": [
+                20101000,
+                2428000
+            ]
+        },
+        "6f75b835-baf1-44e2-b790-8bd41a3d55b0": {
+            "position": [
+                19542000,
+                772000
+            ]
+        },
+        "72baa18e-a8a6-49b2-afc4-0ca0cca90377": {
+            "position": [
+                25819000,
+                1678000
+            ]
+        },
+        "751ad7cd-caaa-4ebd-8918-7c4500ce4316": {
+            "position": [
+                24637000,
+                0
+            ]
+        },
+        "75e7c82a-a5c8-4a6d-b639-82883046f9d7": {
+            "position": [
+                25598000,
+                2786000
+            ]
+        },
+        "77dc62d6-dc65-4bc1-98b1-11cad32d96eb": {
+            "position": [
+                23734000,
+                3143000
+            ]
+        },
+        "7a678a59-d2e6-495e-937d-4df27dba3496": {
+            "position": [
+                27741000,
+                1791000
+            ]
+        },
+        "7b20b952-8073-4969-981a-9a2c7521ed3b": {
+            "position": [
+                23972000,
+                761000
+            ]
+        },
+        "7b6bc99f-3d71-4776-9ff0-d45b884bcbd7": {
+            "position": [
+                22687000,
+                3278000
+            ]
+        },
+        "7cf30809-7648-4c29-8908-f1365845f78b": {
+            "position": [
+                23972000,
+                2426000
+            ]
+        },
+        "7d085d77-2ea4-43cf-9c27-9bfd706bc925": {
+            "position": [
+                26606000,
+                1816000
+            ]
+        },
+        "7e6f3f94-fe0c-4a02-8a12-34f716c59b26": {
+            "position": [
+                18257000,
+                -61000
+            ]
+        },
+        "7e6f6769-052f-436d-a747-ff8480b276b6": {
+            "position": [
+                16413000,
+                2428000
+            ]
+        },
+        "804b9590-c699-4ce6-aea9-cd930132e2a2": {
+            "position": [
+                26298000,
+                2747000
+            ]
+        },
+        "81247e31-37aa-47bd-9e09-354e4347732b": {
+            "position": [
+                19763000,
+                2938000
+            ]
+        },
+        "83a2b08a-16f6-440e-9ef4-994215b0cfb1": {
+            "position": [
+                21785000,
+                3201000
+            ]
+        },
+        "86ec6e1b-542d-48b9-b00a-6668dba22a0c": {
+            "position": [
+                26041000,
+                2359000
+            ]
+        },
+        "872ad743-40d8-4a6b-8c02-b2d81b4d368c": {
+            "position": [
+                23526000,
+                2769000
+            ]
+        },
+        "8b2a1863-6476-4857-a059-b9c66e8f25ec": {
+            "position": [
+                27780000,
+                1346000
+            ]
+        },
+        "8b9dfd1c-9eac-42f5-a46d-e32b339d1a11": {
+            "position": [
+                28522000,
+                886000
+            ]
+        },
+        "8d25a121-2e41-4dfe-bfda-ab1905797a34": {
+            "position": [
+                26343000,
+                -14000
+            ]
+        },
+        "8f8d170c-922f-45cb-92e0-253b4caf677f": {
+            "position": [
+                25911000,
+                615000
+            ]
+        },
+        "922cfdf1-19b9-4ecb-9233-4851a87bb465": {
+            "position": [
+                28461000,
+                653000
+            ]
+        },
+        "92ba729d-f05f-4bf6-a788-d672cbe07d72": {
+            "position": [
+                28214000,
+                1263000
+            ]
+        },
+        "93c350c7-2e75-4785-95ee-d2f76c9c96b3": {
+            "position": [
+                23981000,
+                3015000
+            ]
+        },
+        "9ef59639-049c-4a61-92d0-e4a911a75d1e": {
+            "position": [
+                26110000,
+                454000
+            ]
+        },
+        "a0d7c8b8-2ff3-47b7-acce-9cb3ca4189a5": {
+            "position": [
+                22687000,
+                354000
+            ]
+        },
+        "a0e59789-88b7-4954-86f9-8b6b18b94c94": {
+            "position": [
+                25908000,
+                1149000
+            ]
+        },
+        "a1e03822-a07d-49be-8c7d-8dc9c05004df": {
+            "position": [
+                20843000,
+                2415000
+            ]
+        },
+        "a3494234-818f-4031-98bd-35781ce6f24b": {
+            "position": [
+                25553000,
+                1501000
+            ]
+        },
+        "a3c36fdd-e4a1-4e6c-81e7-4e5ba0f1927e": {
+            "position": [
+                25434000,
+                415000
+            ]
+        },
+        "a5d55e0c-ed33-4c4a-9315-6a1c68b0ed72": {
+            "position": [
+                26448000,
+                3229000
+            ]
+        },
+        "a7e17323-18e0-49ea-b7f4-0c85ab52e0b8": {
+            "position": [
+                28256000,
+                487000
+            ]
+        },
+        "a81a1b24-7fa2-436e-b4a8-06e2582bb3e6": {
+            "position": [
+                25387000,
+                1218000
+            ]
+        },
+        "a87b28e4-f796-4100-8233-75bb990366b5": {
+            "position": [
+                26464000,
+                1360000
+            ]
+        },
+        "a98c6439-c0bc-4e5f-9b73-62f33096d862": {
+            "position": [
+                28403000,
+                1609000
+            ]
+        },
+        "ace09a3c-a2b7-45c5-aeff-65fa11674e95": {
+            "position": [
+                21286000,
+                1135000
+            ]
+        },
+        "b0431067-c12b-4312-bd19-63b40806c260": {
+            "position": [
+                28522000,
+                1506000
+            ]
+        },
+        "b181e694-ad37-451c-bfad-b498b30eeade": {
+            "position": [
+                24105000,
+                2891000
+            ]
+        },
+        "b48825f8-2b8e-484c-a1ba-e8cecd128c28": {
+            "position": [
+                23319000,
+                3240000
+            ]
+        },
+        "b6106ca4-53e3-4d53-8622-aa44dd08b0f8": {
+            "position": [
+                28494000,
+                2035000
+            ]
+        },
+        "b84856d5-9a6a-441c-9cad-df20ab719831": {
+            "position": [
+                29054000,
+                1506000
+            ]
+        },
+        "ba23733f-eb46-4604-a9a0-178b66c87cb5": {
+            "position": [
+                19641000,
+                2102000
+            ]
+        },
+        "bc95993a-7f61-4e1a-aade-589fb7c275c8": {
+            "position": [
+                27287000,
+                354000
+            ]
+        },
+        "bec29c9e-4cd0-4445-91b9-7897e3c12133": {
+            "position": [
+                26680000,
+                2816000
+            ]
+        },
+        "bfd1f55f-4abd-4e6d-b7ac-dcafd6e0469b": {
+            "position": [
+                28256000,
+                2633000
+            ]
+        },
+        "bfe7a016-003a-4ef6-bca0-ec332110b8da": {
+            "position": [
+                29054000,
+                0
+            ]
+        },
+        "c36a3208-86d1-4d7d-8f61-ca29c512252d": {
+            "position": [
+                20738000,
+                1589000
+            ]
+        },
+        "c40f26ac-c8f3-4e08-8c6a-7bf40a38e1ac": {
+            "position": [
+                17083000,
+                587000
+            ]
+        },
+        "c4f36f9c-13aa-4346-a954-62fcd802a9ae": {
+            "position": [
+                17720000,
+                374000
+            ]
+        },
+        "c6a75a7d-4765-4055-b8bb-fa34e59ede85": {
+            "position": [
+                27198000,
+                -67000
+            ]
+        },
+        "c8000dae-eea4-4c5d-a721-4c28ab85eea4": {
+            "position": [
+                28522000,
+                437000
+            ]
+        },
+        "c8784e59-0803-4fd6-bbc8-61eaa7fa04ce": {
+            "position": [
+                19641000,
+                1119000
+            ]
+        },
+        "cb8c379c-66f5-499d-a211-5bf64fe1ec1f": {
+            "position": [
+                26171000,
+                1775000
+            ]
+        },
+        "ccb6f8dd-7d04-462b-873a-1f1603529b50": {
+            "position": [
+                21286000,
+                2046000
+            ]
+        },
+        "cfac6fe4-bcde-4c59-8ae8-15d4b64d89db": {
+            "position": [
+                28408000,
+                2401000
+            ]
+        },
+        "d05fde0a-bd87-46f9-bd7b-296116f1ce00": {
+            "position": [
+                16969000,
+                2439000
+            ]
+        },
+        "d138bc41-c618-485f-98e2-13f10222fa59": {
+            "position": [
+                16931000,
+                817000
+            ]
+        },
+        "d4988d34-b72c-41ad-adcb-0ca4ef5343f2": {
+            "position": [
+                22687000,
+                2835000
+            ]
+        },
+        "d55179e5-61d5-4438-a913-4864076ce573": {
+            "position": [
+                17149000,
+                2653000
+            ]
+        },
+        "daac110f-59e2-4e44-80da-ac4ccb4ef084": {
+            "position": [
+                24072000,
+                2079000
+            ]
+        },
+        "daca4752-3978-4ed4-8a5d-1eaa8470bdce": {
+            "position": [
+                28450000,
+                1110000
+            ]
+        },
+        "dc2fe2cf-d5f7-40f1-a13c-469146283b69": {
+            "position": [
+                22150000,
+                374000
+            ]
+        },
+        "e00e477b-c9e2-46de-ab46-ff3cf2146847": {
+            "position": [
+                16751000,
+                288000
+            ]
+        },
+        "e0cf4688-5f2e-47b6-8372-90ceb3565704": {
+            "position": [
+                19365000,
+                2653000
+            ]
+        },
+        "e13f1a03-7ff4-472e-b78f-a31327b90798": {
+            "position": [
+                17781000,
+                2824000
+            ]
+        },
+        "e2e487ee-d857-49de-91ba-588ab20129c2": {
+            "position": [
+                23526000,
+                421000
+            ]
+        },
+        "e44bee7a-4877-4a18-b9ae-f1ce46df1ce4": {
+            "position": [
+                19096000,
+                424000
+            ]
+        },
+        "e7ead0c1-e265-4f8b-bc7e-efe4a5654c89": {
+            "position": [
+                19675000,
+                1617000
+            ]
+        },
+        "e7fd6386-6f0b-4396-9512-5b9647c4fec0": {
+            "position": [
+                26099000,
+                2600000
+            ]
+        },
+        "eb09afee-14bd-4930-99c5-40aa4f0e5fbd": {
+            "position": [
+                27110000,
+                1373000
+            ]
+        },
+        "f0b9889d-da50-45ed-8bc9-3dab6e2cd12c": {
+            "position": [
+                27287000,
+                2835000
+            ]
+        },
+        "f240907c-fdde-45d4-ad04-4cefab155f18": {
+            "position": [
+                20206000,
+                1617000
+            ]
+        },
+        "f6571e04-a8dd-46ae-b2e1-268abb2848e9": {
+            "position": [
+                18730000,
+                365000
+            ]
+        },
+        "f81b4e95-9125-4c1a-b9ce-936a003437d9": {
+            "position": [
+                25509000,
+                2359000
+            ]
+        },
+        "f87b4c9b-f40c-4dab-aca2-8b7d52716845": {
+            "position": [
+                23792000,
+                543000
+            ]
+        },
+        "fbadaf1c-9eb0-48b6-98fb-3537f96ced28": {
+            "position": [
+                23161000,
+                2824000
+            ]
+        },
+        "fc2b6e63-854d-4165-981e-45ab6d73acc8": {
+            "position": [
+                24072000,
+                1096000
+            ]
+        },
+        "fd7c1b73-f289-4ff9-bfef-15452d0218cc": {
+            "position": [
+                16870000,
+                2102000
+            ]
+        },
+        "fd7df9e6-9ede-4728-a32c-4a141a0fa947": {
+            "position": [
+                25332000,
+                811000
+            ]
+        },
+        "ff89886f-3d4b-4ce2-ad02-76b79e5f6d66": {
+            "position": [
+                28658000,
+                2916000
+            ]
+        }
+    },
+    "lines": {
+        "01c81bd7-aa3c-4860-bf6d-c759841780be": {
+            "from": "1cbd27ab-f16b-4ecf-9ce4-2e36c1915336",
+            "layer": 20,
+            "to": "1cbd27ab-f16b-4ecf-9ce4-2e36c1915336",
+            "width": 0
+        },
+        "c39b751b-5c45-4342-8a1a-378964b3c99f": {
+            "from": "a0d7c8b8-2ff3-47b7-acce-9cb3ca4189a5",
+            "layer": 20,
+            "to": "a0d7c8b8-2ff3-47b7-acce-9cb3ca4189a5",
+            "width": 0
+        }
+    },
+    "name": "microdash",
+    "polygons": {
+        "093951bf-e008-4c2d-bd58-4d0336da583c": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32518000,
+                        1409000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32753000,
+                        1351000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32883000,
+                        1243000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32939000,
+                        1102000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32952000,
+                        941000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32939000,
+                        759000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32880000,
+                        612000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32742000,
+                        498000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32493000,
+                        418000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32099000,
+                        368000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        31535000,
+                        354000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30928000,
+                        374000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30549000,
+                        454000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30349000,
+                        615000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30294000,
+                        886000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        29762000,
+                        886000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        29851000,
+                        460000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30150000,
+                        174000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30696000,
+                        16000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        31535000,
+                        -33000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32232000,
+                        -8000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32750000,
+                        61000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        33107000,
+                        188000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        33334000,
+                        376000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        33451000,
+                        628000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        33484000,
+                        952000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        33451000,
+                        1268000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        33334000,
+                        1506000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        33119000,
+                        1695000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32775000,
+                        1822000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32282000,
+                        1880000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        31623000,
+                        1897000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        31094000,
+                        1897000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30726000,
+                        1913000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30493000,
+                        1960000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30363000,
+                        2049000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30305000,
+                        2196000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30294000,
+                        2381000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30366000,
+                        2633000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30604000,
+                        2769000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        31042000,
+                        2824000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        31712000,
+                        2835000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32315000,
+                        2813000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32698000,
+                        2738000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32894000,
+                        2592000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32952000,
+                        2348000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        33484000,
+                        2348000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        33404000,
+                        2763000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        33121000,
+                        3051000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32579000,
+                        3223000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        31712000,
+                        3278000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30809000,
+                        3231000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30205000,
+                        3076000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        29868000,
+                        2799000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        29762000,
+                        2381000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        29796000,
+                        2041000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        29909000,
+                        1778000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30125000,
+                        1609000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30469000,
+                        1509000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        30961000,
+                        1465000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        31623000,
+                        1454000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        31623000,
+                        1454000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32152000,
+                        1443000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "0ca8e57b-2d69-413b-8e73-e9501da7ec5e": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        13954000,
+                        2772000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        14535000,
+                        2835000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        15111000,
+                        2802000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        15432000,
+                        2691000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        15568000,
+                        2481000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        15599000,
+                        2151000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16042000,
+                        2151000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        15989000,
+                        2636000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        15792000,
+                        2988000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        15388000,
+                        3204000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        14713000,
+                        3278000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        14106000,
+                        3218000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        13713000,
+                        3065000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        13486000,
+                        2871000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        13383000,
+                        2683000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        13383000,
+                        3190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        12852000,
+                        3190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        12852000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        13383000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        13383000,
+                        1974000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        13428000,
+                        2326000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        13602000,
+                        2597000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "151f2eb8-b89c-4df1-8e3f-9927f34e2561": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16413000,
+                        2428000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16969000,
+                        2439000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        17149000,
+                        2653000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        17415000,
+                        2772000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        17781000,
+                        2824000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        18257000,
+                        2835000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        18730000,
+                        2824000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19096000,
+                        2772000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19365000,
+                        2653000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19542000,
+                        2439000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        20101000,
+                        2428000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19763000,
+                        2938000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19160000,
+                        3201000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        18257000,
+                        3278000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        17354000,
+                        3201000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16751000,
+                        2938000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "2411c329-07ab-4824-b330-7e3d62a04a0c": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28522000,
+                        1506000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28403000,
+                        1609000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28156000,
+                        1711000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27741000,
+                        1791000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27107000,
+                        1825000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26606000,
+                        1816000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26171000,
+                        1775000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25819000,
+                        1678000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25553000,
+                        1501000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25387000,
+                        1218000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25332000,
+                        811000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25434000,
+                        415000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25764000,
+                        141000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26343000,
+                        -14000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27198000,
+                        -67000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27805000,
+                        -22000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28176000,
+                        94000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28397000,
+                        271000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28522000,
+                        437000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28461000,
+                        653000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28256000,
+                        487000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27874000,
+                        388000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27287000,
+                        354000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26539000,
+                        374000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26110000,
+                        454000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25911000,
+                        615000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25864000,
+                        886000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25908000,
+                        1149000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26088000,
+                        1296000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26464000,
+                        1360000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27110000,
+                        1373000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27780000,
+                        1346000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28214000,
+                        1263000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28450000,
+                        1110000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "7237032a-fa88-414a-a472-55053ac9c286": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        34783000,
+                        2329000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        34725000,
+                        1977000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        34725000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        34193000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        34193000,
+                        4253000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        34725000,
+                        4253000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        34725000,
+                        2686000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        34882000,
+                        2910000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        35118000,
+                        3071000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        35409000,
+                        3176000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        35721000,
+                        3240000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        36034000,
+                        3270000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        36320000,
+                        3278000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        36929000,
+                        3234000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        37363000,
+                        3107000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        37651000,
+                        2899000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        37818000,
+                        2608000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        37898000,
+                        2240000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        37917000,
+                        1800000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        37915000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        37383000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        37383000,
+                        1800000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        37339000,
+                        2284000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        37161000,
+                        2606000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        36785000,
+                        2780000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        36142000,
+                        2835000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        35433000,
+                        2772000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        35001000,
+                        2597000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "808b090d-f5eb-4abc-9004-2935e85cf316": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        12143000,
+                        1063000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11611000,
+                        1063000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11606000,
+                        856000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11564000,
+                        681000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11456000,
+                        543000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11243000,
+                        440000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        10891000,
+                        376000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        10371000,
+                        354000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9773000,
+                        379000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9374000,
+                        462000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9130000,
+                        615000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9005000,
+                        844000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        8958000,
+                        1166000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        8953000,
+                        1589000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        8958000,
+                        2019000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9005000,
+                        2345000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9130000,
+                        2578000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9374000,
+                        2730000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9773000,
+                        2813000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        10371000,
+                        2838000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        10891000,
+                        2819000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11243000,
+                        2761000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11456000,
+                        2664000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11564000,
+                        2536000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11606000,
+                        2376000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11611000,
+                        2185000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        12143000,
+                        2185000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        12065000,
+                        2675000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11788000,
+                        3015000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11246000,
+                        3215000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        10371000,
+                        3281000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9673000,
+                        3248000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9155000,
+                        3137000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        8795000,
+                        2932000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        8568000,
+                        2619000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        8452000,
+                        2176000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        8418000,
+                        1589000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        8452000,
+                        1019000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        8568000,
+                        590000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        8795000,
+                        282000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9155000,
+                        80000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        9673000,
+                        -28000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        10371000,
+                        -61000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11246000,
+                        5000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        11788000,
+                        208000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        12065000,
+                        559000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "98eef242-5c70-445f-a9fb-ee6d19e9d632": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25509000,
+                        2359000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26041000,
+                        2359000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26099000,
+                        2600000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26298000,
+                        2747000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26680000,
+                        2816000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27287000,
+                        2835000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27705000,
+                        2822000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28023000,
+                        2766000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28256000,
+                        2633000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28408000,
+                        2401000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28494000,
+                        2035000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28522000,
+                        1506000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28450000,
+                        1110000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28522000,
+                        886000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28461000,
+                        653000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28522000,
+                        437000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28522000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        29054000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        29054000,
+                        1506000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28959000,
+                        2370000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28658000,
+                        2916000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        28112000,
+                        3198000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        27287000,
+                        3278000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        26448000,
+                        3229000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25897000,
+                        3068000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        25598000,
+                        2786000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "ac31b494-114c-4325-908e-d13c7af214cf": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        7089000,
+                        4253000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        7621000,
+                        4253000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        7621000,
+                        3722000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        7089000,
+                        3722000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "b66aae3a-32fb-4d7e-87a3-2509efe6ddb4": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        20843000,
+                        2415000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21181000,
+                        2932000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21785000,
+                        3201000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        22687000,
+                        3278000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23319000,
+                        3240000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23734000,
+                        3143000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23981000,
+                        3015000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        24105000,
+                        2891000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        24105000,
+                        4253000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        24637000,
+                        4253000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        24637000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        24105000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        24105000,
+                        473000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23972000,
+                        316000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23715000,
+                        133000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23319000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        22687000,
+                        -61000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        22687000,
+                        354000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23161000,
+                        365000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23526000,
+                        421000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23792000,
+                        543000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23972000,
+                        761000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        24072000,
+                        1096000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        24105000,
+                        1581000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        24072000,
+                        2079000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23972000,
+                        2426000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23792000,
+                        2647000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23526000,
+                        2769000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        23161000,
+                        2824000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        22687000,
+                        2835000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        22150000,
+                        2816000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21768000,
+                        2747000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21511000,
+                        2608000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21358000,
+                        2381000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "cc09c942-c1ce-47fb-ba84-7de9b65e5135": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        20843000,
+                        2415000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21358000,
+                        2381000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21286000,
+                        2046000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21270000,
+                        1589000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21286000,
+                        1135000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21358000,
+                        806000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21511000,
+                        581000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21768000,
+                        443000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        22150000,
+                        374000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        22687000,
+                        354000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        22687000,
+                        -61000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21785000,
+                        16000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        21181000,
+                        282000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        20843000,
+                        789000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        20738000,
+                        1589000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "cc36ba1b-dfec-4fa2-a2de-aa4f8668dc7b": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16413000,
+                        2428000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16307000,
+                        1617000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16413000,
+                        803000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16751000,
+                        288000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        17354000,
+                        17000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        18257000,
+                        -61000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19160000,
+                        17000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19763000,
+                        288000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        20101000,
+                        803000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        20206000,
+                        1617000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        20101000,
+                        2428000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19542000,
+                        2439000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19641000,
+                        2102000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19675000,
+                        1617000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19641000,
+                        1119000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19542000,
+                        772000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19365000,
+                        548000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        19096000,
+                        424000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        18730000,
+                        365000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        18257000,
+                        354000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        17720000,
+                        374000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        17338000,
+                        446000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        17083000,
+                        587000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16931000,
+                        817000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16859000,
+                        1155000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16839000,
+                        1617000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16870000,
+                        2102000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        16969000,
+                        2439000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "d0a900fc-658b-48b2-9f0d-5efc455b9cc1": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6203000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        5671000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        5671000,
+                        1800000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        5633000,
+                        2284000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        5480000,
+                        2606000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        5156000,
+                        2780000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        4608000,
+                        2835000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3993000,
+                        2772000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3614000,
+                        2597000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3420000,
+                        2329000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3368000,
+                        1977000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3368000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        2836000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        2836000,
+                        1800000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        2797000,
+                        2284000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        2645000,
+                        2606000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        2321000,
+                        2780000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1773000,
+                        2835000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1158000,
+                        2772000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        779000,
+                        2597000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        585000,
+                        2329000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        532000,
+                        1977000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        532000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        3190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        532000,
+                        3190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        532000,
+                        2686000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        557000,
+                        2741000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        635000,
+                        2852000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        790000,
+                        2993000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1044000,
+                        3132000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1424000,
+                        3237000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1950000,
+                        3278000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        2468000,
+                        3240000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        2844000,
+                        3129000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3099000,
+                        2946000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3257000,
+                        2697000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3404000,
+                        2871000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3681000,
+                        3062000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        4129000,
+                        3215000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        4785000,
+                        3278000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        5331000,
+                        3234000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        5719000,
+                        3107000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        5971000,
+                        2899000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6117000,
+                        2608000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6187000,
+                        2240000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6203000,
+                        1800000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "e0c4ee2a-e1fa-4521-8284-9343b3d04e3c": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        7089000,
+                        3190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        7621000,
+                        3190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        7621000,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        7089000,
+                        0
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "texts": {},
+    "type": "decal",
+    "uuid": "f7308fc3-fb6e-4b6f-ace4-187e95c3092d"
+}

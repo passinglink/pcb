@@ -1,0 +1,74 @@
+{
+    "MPN": [
+        false,
+        "MIC5219-3.3BMM"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/268/mic5219-1082354.pdf"
+    ],
+    "description": [
+        false,
+        "500mA-Peak Output LDO Regulator"
+    ],
+    "entity": "dfbc4b45-9433-46fa-9b7c-8bc603f54a66",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Micrel"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "orderable_MPNs": {
+        "9e10c912-0e3c-45a6-8092-40599c3814bb": "MIC5219-3.3BMM",
+        "ca0e1f7b-0e1d-46c2-ab93-39edd11fd4e9": "MIC5219-3.3BMM-TR"
+    },
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "3bdb1573-4b9a-4146-a030-ccf8c6b796e4",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "3bdb1573-4b9a-4146-a030-ccf8c6b796e4",
+            "pin": "b37a4ff3-f646-4da9-bc78-2234abb1d91d"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "3bdb1573-4b9a-4146-a030-ccf8c6b796e4",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "3bdb1573-4b9a-4146-a030-ccf8c6b796e4",
+            "pin": "2f2e33ae-ea54-4fc9-b2c0-e6be3e1d02e0"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "3bdb1573-4b9a-4146-a030-ccf8c6b796e4",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "3bdb1573-4b9a-4146-a030-ccf8c6b796e4",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "3bdb1573-4b9a-4146-a030-ccf8c6b796e4",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "3bdb1573-4b9a-4146-a030-ccf8c6b796e4",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "ldo",
+        "pl",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "1470c2fb-c039-4b87-81db-090516966359",
+    "value": [
+        false,
+        ""
+    ]
+}

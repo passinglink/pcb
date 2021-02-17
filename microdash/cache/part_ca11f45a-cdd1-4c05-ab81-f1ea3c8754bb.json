@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "Two-terminal polarized capacitor"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "6012f723-4121-4b91-8e75-3499fec15b5b",
+    "pad_map": {
+        "4fd4d084-2c3b-4b44-b256-eb0a16d0a9d9": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "e2e75812-9541-4f38-bd40-4b1ba2b98788": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ca11f45a-cdd1-4c05-ab81-f1ea3c8754bb",
+    "value": [
+        false,
+        ""
+    ]
+}

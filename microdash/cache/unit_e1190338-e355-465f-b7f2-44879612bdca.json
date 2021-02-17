@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Nexperia",
+    "name": "PRTR5V0U2F",
+    "pins": {
+        "0d88007e-765e-4a1a-8c6b-9456bb7808c0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IO1B",
+            "swap_group": 0
+        },
+        "4796a7db-bf7c-486f-89dc-205720f9bede": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "72e73533-f3ad-4a98-8a29-d89b84969f4a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "918b20ce-2424-4026-859f-3983cb94776b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IO2A",
+            "swap_group": 0
+        },
+        "a80e1e3c-3336-4d8e-80da-c1464831b60a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IO1A",
+            "swap_group": 0
+        },
+        "bf15a339-5a21-4ba4-8c02-1e6a69d554ef": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IO2B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e1190338-e355-465f-b7f2-44879612bdca"
+}

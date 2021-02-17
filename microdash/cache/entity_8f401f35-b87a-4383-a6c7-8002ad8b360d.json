@@ -1,0 +1,26 @@
+{
+    "gates": {
+        "5bf49dfc-6679-4344-a517-f11a43739ee3": {
+            "name": "LED",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "1fc77052-46a1-4aa6-a23b-caceeaaca68a"
+        },
+        "7cfb84f7-9a74-485e-9bb6-247100724ba5": {
+            "name": "Switch",
+            "suffix": "J",
+            "swap_group": 0,
+            "unit": "d5b9dc4b-7732-477d-bd7a-be760af429d5"
+        }
+    },
+    "manufacturer": "Kailh",
+    "name": "Kailh Choc Socket with LED",
+    "prefix": "S",
+    "tags": [
+        "led",
+        "pl",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "8f401f35-b87a-4383-a6c7-8002ad8b360d"
+}

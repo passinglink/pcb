@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "PRTR5V0U2F"
+    ],
+    "datasheet": [
+        false,
+        "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2F_PRTR5V0U2K.pdf"
+    ],
+    "description": [
+        false,
+        "Ultra low capacitance double rail-to-rail ESD protection"
+    ],
+    "entity": "b8f29b41-d045-4ebf-a362-8da9051e71c1",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5333c085-d40f-4736-93ae-4290aa5a3d95",
+    "pad_map": {
+        "17a5630a-c676-48a0-aa66-325f9e6c204d": {
+            "gate": "68387272-2624-474f-8089-7f48005c5513",
+            "pin": "bf15a339-5a21-4ba4-8c02-1e6a69d554ef"
+        },
+        "1f89d7bb-dafb-4381-bbe7-5f7d1e8a6cdb": {
+            "gate": "68387272-2624-474f-8089-7f48005c5513",
+            "pin": "a80e1e3c-3336-4d8e-80da-c1464831b60a"
+        },
+        "4b924d14-2e34-423a-a820-8444785ebedf": {
+            "gate": "68387272-2624-474f-8089-7f48005c5513",
+            "pin": "0d88007e-765e-4a1a-8c6b-9456bb7808c0"
+        },
+        "4d450920-12a3-4132-8def-5b27033ba94d": {
+            "gate": "68387272-2624-474f-8089-7f48005c5513",
+            "pin": "918b20ce-2424-4026-859f-3983cb94776b"
+        },
+        "4f38b1be-c161-45cd-9481-ca539b275c27": {
+            "gate": "68387272-2624-474f-8089-7f48005c5513",
+            "pin": "4796a7db-bf7c-486f-89dc-205720f9bede"
+        },
+        "67b0f782-b05b-41c2-8949-c44133cc342e": {
+            "gate": "68387272-2624-474f-8089-7f48005c5513",
+            "pin": "72e73533-f3ad-4a98-8a29-d89b84969f4a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "pl"
+    ],
+    "type": "part",
+    "uuid": "f2865042-e492-4973-9142-a14814d81758",
+    "value": [
+        false,
+        ""
+    ]
+}
