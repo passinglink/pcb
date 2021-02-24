@@ -69,7 +69,7 @@
         },
         "38da3a8e-e472-470e-9438-56f28b8c2686": {
             "name": "M3",
-            "padstack": "4a0e654a-a96c-4c6b-939f-dd44887c78ab",
+            "padstack": "27382155-d34f-4e79-ae28-9fb5932a307a",
             "parameter_set": {
                 "hole_diameter": 600000,
                 "hole_length": 2000000,
@@ -103,7 +103,7 @@
         },
         "41d0c99c-ca33-4257-a162-190e055ca4a6": {
             "name": "M4",
-            "padstack": "4a0e654a-a96c-4c6b-939f-dd44887c78ab",
+            "padstack": "27382155-d34f-4e79-ae28-9fb5932a307a",
             "parameter_set": {
                 "hole_diameter": 600000,
                 "hole_length": 2000000,
@@ -200,7 +200,7 @@
         },
         "a311443d-6bc2-4c68-a0b8-a7e338b0523e": {
             "name": "M1",
-            "padstack": "4a0e654a-a96c-4c6b-939f-dd44887c78ab",
+            "padstack": "3ba4c3c5-be60-421d-b8d0-d696021b99ea",
             "parameter_set": {
                 "hole_diameter": 600000,
                 "hole_length": 2000000,
@@ -266,7 +266,7 @@
         },
         "e0788213-ed91-415f-8546-453270475343": {
             "name": "M2",
-            "padstack": "4a0e654a-a96c-4c6b-939f-dd44887c78ab",
+            "padstack": "3ba4c3c5-be60-421d-b8d0-d696021b99ea",
             "parameter_set": {
                 "hole_diameter": 600000,
                 "hole_length": 2000000,
