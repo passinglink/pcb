@@ -136,11 +136,11 @@ def button_bottom_cutout(parent: cq.Workplane, button: Button) -> cq.Workplane:
     ct = CenterTracker(button.rotation)
     x = ct.push_raw(parent, button.position.x, button.position.y)
     # Center hole: 3.40 mm nominal
-    x = x.circle((3.40 - 0.1) / 2)
+    x = x.circle(3.2 / 2)
 
     # Side holes: 1.90 mm nominal, spaced 5.5mm from the center
     x = x.pushPoints([rotate(5.5, 0, button.rotation), rotate(-5.5, 0, button.rotation)])
-    x = x.circle((1.90 - 0.1)/ 2)
+    x = x.circle(1.65 / 2)
 
     # LED hole
     if button.led:
