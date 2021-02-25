@@ -208,7 +208,7 @@ def button_top_cutout(parent: cq.Workplane, button: Button) -> cq.Workplane:
     ct = CenterTracker(button.rotation)
     x = ct.push_raw(parent, button.position.x, button.position.y)
 
-    expansion = 0.1
+    expansion = -0.05
 
     x = ct.push(x, 7.5 + expansion, 7.5 + expansion)
     x = ct.push_line(x, 0, -(15 + 2 * expansion))
