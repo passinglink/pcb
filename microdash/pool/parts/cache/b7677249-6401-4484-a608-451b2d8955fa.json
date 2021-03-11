@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "XC8102AA01MR-G"
+    ],
+    "datasheet": [
+        false,
+        "https://www.torexsemi.com/file/xc8102/XC8102.pdf"
+    ],
+    "description": [
+        false,
+        "Load Switch with Low On-Resistance (Current Limit 400mA)"
+    ],
+    "entity": "2d659af8-d880-4afb-be2c-3615db472e08",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Torex Semiconductor"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "orderable_MPNs": {
+        "00b22dbc-3398-42b1-8421-90fa49abb0bd": "XC8102AA01MR-G"
+    },
+    "package": "70c65846-2ee7-4d11-9d38-fe0fa84dc963",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "75b38fce-91f7-4847-8f9e-c5edcb3c3282",
+            "pin": "249f0106-2ac2-42a0-8124-2094346ec98a"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "75b38fce-91f7-4847-8f9e-c5edcb3c3282",
+            "pin": "c3713cfb-6b9d-46bf-88b3-8f9f74715f36"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "75b38fce-91f7-4847-8f9e-c5edcb3c3282",
+            "pin": "d5e6aff0-c508-4543-9e04-0f82520ed0a4"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "75b38fce-91f7-4847-8f9e-c5edcb3c3282",
+            "pin": "02091468-56ff-4e6b-ac2d-1babdda137de"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "pl",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "b7677249-6401-4484-a608-451b2d8955fa",
+    "value": [
+        false,
+        ""
+    ]
+}

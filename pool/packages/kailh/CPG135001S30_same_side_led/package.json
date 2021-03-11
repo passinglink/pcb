@@ -448,32 +448,32 @@
         },
         "bdca3714-360c-40a0-aa0a-6365aa05277d": {
             "name": "1",
-            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "padstack": "549ce255-6721-44db-9d47-ec07764772ca",
             "parameter_set": {
                 "pad_height": 1680000,
-                "pad_width": 2000000
+                "pad_width": 4500000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -6735000,
+                    -7985000,
                     -3800000
                 ]
             }
         },
         "c86254a1-fe65-4d3f-bf21-adacc1e3b0d3": {
             "name": "2",
-            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "padstack": "549ce255-6721-44db-9d47-ec07764772ca",
             "parameter_set": {
                 "pad_height": 1680000,
-                "pad_width": 2000000
+                "pad_width": 4500000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    1735000,
+                    2985000,
                     -5900000
                 ]
             }

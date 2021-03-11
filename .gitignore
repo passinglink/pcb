@@ -10,3 +10,7 @@
 *.gts
 *.zip
 plots/
+
+*.db
+*.db-shm
+*.db-wal

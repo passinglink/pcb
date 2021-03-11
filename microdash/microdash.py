@@ -157,8 +157,6 @@ def button_bottom_cutout(parent: cq.Workplane, button: Button) -> cq.Workplane:
 
     x = ct.push(x, 0, -5.90)
 
-    solder_point_width = 1.65
-
     top_long_width = 4.5
     top_slope_width = 2.25
     top_short_width = 2.85
@@ -170,7 +168,13 @@ def button_bottom_cutout(parent: cq.Workplane, button: Button) -> cq.Workplane:
     slope_height = 2.15
     half_height = 4.7
 
-    solder_point_height = 1.7
+    # Expansion for the solder joint
+    solder_point_expansion_x = 1.8
+    solder_point_expansion_y = 0.6
+
+    solder_point_width = 1.65 + solder_point_expansion_x
+    solder_point_height = 1.7 + solder_point_expansion_y
+
     expansion = 0.1
 
     x = ct.push(x, (9.55-5)/2, 0)
@@ -293,20 +297,20 @@ def ic_cutouts(parent: cq.Workplane) -> cq.Workplane:
             "dimensions": (22, 18),
         },
         "io_extender": {
-            "locations": [(115, 80), (115, 72), (115, 62), (115, 52)],
+            "locations": [(115, 82), (115, 72), (115, 62), (115, 52)],
             "dimensions": (6.3, 6.3),
         },
         "usb_esd": {
-            "locations": [(115.5, 133.25)],
-            "dimensions": (2.5, 2),
+            "locations": [(115, 132.2)],
+            "dimensions": (8, 2),
         },
         "regulator": {
-            "locations": [(131.1, 127.1)],
-            "dimensions": (12, 12),
+            "locations": [(129.5, 129.5)],
+            "dimensions": (8, 10),
         },
         "i2c_pullup": {
-            "locations": [(103.070, 135.040)],
-            "dimensions": (3.5, 4.5),
+            "locations": [(103.070, 132.5)],
+            "dimensions": (3.25, 9.5),
         },
     }
 

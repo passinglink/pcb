@@ -1,0 +1,58 @@
+{
+    "arcs": {},
+    "default_model": "7a2a20a7-57b9-468a-8ae9-7b582bc815ef",
+    "dimensions": {},
+    "junctions": {},
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "Keystone",
+    "models": {
+        "7a2a20a7-57b9-468a-8ae9-7b582bc815ef": {
+            "filename": "3d_models/cache/418ac095-fde6-4c18-8d26-135264d6df1b/3d_models/keystone-PN4882.STEP",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": -1520000
+        }
+    },
+    "name": "4882",
+    "pads": {
+        "80db036d-cb20-4cdd-a4cd-6b3998b0a208": {
+            "name": "1",
+            "padstack": "32d177ce-2487-4f40-86b1-9f8d57d831b7",
+            "parameter_set": {},
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "mounting",
+        "stud"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "019852e6-6dfa-4e55-8c2c-c3408f73832b"
+}

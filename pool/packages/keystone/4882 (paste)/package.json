@@ -1,0 +1,58 @@
+{
+    "arcs": {},
+    "default_model": "7a2a20a7-57b9-468a-8ae9-7b582bc815ef",
+    "dimensions": {},
+    "junctions": {},
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "Keystone",
+    "models": {
+        "7a2a20a7-57b9-468a-8ae9-7b582bc815ef": {
+            "filename": "3d_models/keystone-PN4882.STEP",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": -1520000
+        }
+    },
+    "name": "4882 (paste)",
+    "pads": {
+        "80db036d-cb20-4cdd-a4cd-6b3998b0a208": {
+            "name": "1",
+            "padstack": "0c94e4d7-79af-40af-83bf-ecaa1b8a0c93",
+            "parameter_set": {},
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "mounting",
+        "stud"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "c9bbec63-b363-4655-b345-f801a14693fd"
+}

@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Bidirectional TVS diode",
+    "pins": {
+        "2eb25d63-ae3d-4dff-a4d4-e4b6cae6d1dc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K2",
+            "swap_group": 0
+        },
+        "8027bb9a-ef98-4587-a1aa-97425be35a8e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "abbcd796-c924-4b20-9a4d-e97b8a5a6cc6"
+}
