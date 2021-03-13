@@ -4,6 +4,7 @@ import argparse
 import cadquery as cq
 import json
 import math
+import os
 import sys
 from functools import lru_cache
 
@@ -379,18 +380,19 @@ parser.add_argument("--pcb-place", help="place PCB footprints", action="store_tr
 args = parser.parse_args()
 
 if args.export:
+    os.makedirs("export", exist_ok=True)
     test_button = Button(position=cq.Vector(0, 0, 0), rotation=0)
     test_coupon_top = button_top_cutout(cq.Workplane("XY").rect(20, 20), test_button).extrude(3)
     test_coupon_bottom = button_bottom_cutout(cq.Workplane("XY").rect(20, 20), test_button).extrude(3)
-    cq.exporters.export(test_coupon_top.section(), "test_coupon_top.dxf")
-    cq.exporters.export(test_coupon_bottom.section(), "test_coupon_bottom.dxf")
+    cq.exporters.export(test_coupon_top.section(), "export/test_coupon_top.dxf")
+    cq.exporters.export(test_coupon_bottom.section(), "export/test_coupon_bottom.dxf")
 
     top_export = top_plate().rotate(cq.Vector(0, 0, 0), cq.Vector(0, 0, 1), 90)
     top_engrave_export = top_engrave().rotate(cq.Vector(0, 0, 0), cq.Vector(0, 0, 1), 90)
     bottom_export = bottom_plate().rotate(cq.Vector(0, 0, 0), cq.Vector(0, 0, 1), 90)
-    cq.exporters.export(top_export.section(), "top_plate.dxf")
-    cq.exporters.export(top_engrave_export.section(), "top_engrave.dxf")
-    cq.exporters.export(bottom_export.section(), "bottom_plate.dxf")
+    cq.exporters.export(top_export.section(), "export/top_plate.dxf")
+    cq.exporters.export(top_engrave_export.section(), "export/top_engrave.dxf")
+    cq.exporters.export(bottom_export.section(), "export/bottom_plate.dxf")
 
 if args.pcb_place:
     block = json.load(open("top_block.json", "r"))

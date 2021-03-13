@@ -4812,7 +4812,7 @@
         },
         "min_line_width": 200000,
         "mirror": false,
-        "output_filename": "board.pdf",
+        "output_filename": "export/board.pdf",
         "reverse_layers": false,
         "set_holes_size": false
     },
@@ -103106,7 +103106,7 @@
         }
     },
     "step_export_settings": {
-        "filename": "board.step",
+        "filename": "export/board.step",
         "include_3d_models": true,
         "prefix": ""
     },
