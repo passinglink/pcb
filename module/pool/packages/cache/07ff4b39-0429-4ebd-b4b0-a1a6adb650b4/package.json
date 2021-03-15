@@ -1,0 +1,220 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {
+        "0e6fbfb2-da2f-48bc-8e23-aa0b63a1062b": {
+            "position": [
+                -600000,
+                -600000
+            ]
+        },
+        "130e5bf4-1d6a-4383-8828-17169364072f": {
+            "position": [
+                -600000,
+                -600000
+            ]
+        },
+        "14b5634e-2f13-44b4-b848-4cbaebe4b5c3": {
+            "position": [
+                900000,
+                -800000
+            ]
+        },
+        "218beb77-2574-4bef-8acf-a616df7cc499": {
+            "position": [
+                0,
+                800000
+            ]
+        },
+        "6aa313af-3c1d-41a5-b505-3e4666d9f987": {
+            "position": [
+                900000,
+                800000
+            ]
+        },
+        "b4e24eea-e0a4-40f3-9bbc-c9ae5769686e": {
+            "position": [
+                -900000,
+                -800000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "9a4dc9f9-d075-43a3-8b58-a895334aa0d0": {
+            "from": "0e6fbfb2-da2f-48bc-8e23-aa0b63a1062b",
+            "layer": 20,
+            "to": "130e5bf4-1d6a-4383-8828-17169364072f",
+            "width": 0
+        },
+        "b173f003-0838-4e0f-bc64-8f9388bfec68": {
+            "from": "b4e24eea-e0a4-40f3-9bbc-c9ae5769686e",
+            "layer": 20,
+            "to": "14b5634e-2f13-44b4-b848-4cbaebe4b5c3",
+            "width": 150000
+        },
+        "c0be5831-f4a6-4c8a-94a4-b8d9f198d9ea": {
+            "from": "218beb77-2574-4bef-8acf-a616df7cc499",
+            "layer": 20,
+            "to": "6aa313af-3c1d-41a5-b505-3e4666d9f987",
+            "width": 150000
+        }
+    },
+    "manufacturer": "Richtek",
+    "models": {},
+    "name": "ZQFN1x1-4",
+    "pads": {
+        "1e56de8f-50ca-4c10-aab0-1c66348be69e": {
+            "name": "4",
+            "padstack": "68149f3f-8ec3-49f2-a674-5547ba7c3362",
+            "parameter_set": {
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    562500,
+                    312500
+                ]
+            }
+        },
+        "38339533-e770-479f-bd3d-4c3e0b68739a": {
+            "name": "1",
+            "padstack": "e3a18289-bf02-4788-a6e8-58c8708e6662",
+            "parameter_set": {
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -562500,
+                    312500
+                ]
+            }
+        },
+        "57dfcfc1-bc1f-4780-849e-9167c5dcfdf3": {
+            "name": "3",
+            "padstack": "e3a18289-bf02-4788-a6e8-58c8708e6662",
+            "parameter_set": {
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    562500,
+                    -312500
+                ]
+            }
+        },
+        "7c852995-0823-40ae-b6c0-903fbe1cbe99": {
+            "name": "5",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 400000,
+                "pad_width": 400000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 8192,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "cc3d7ba0-3983-46f6-bfc2-91aa1a29b4b2": {
+            "name": "2",
+            "padstack": "68149f3f-8ec3-49f2-a674-5547ba7c3362",
+            "parameter_set": {
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -562500,
+                    -312500
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "862889c8-b46d-4715-abbe-1a6ef032dc3f": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -500000,
+                        -500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -500000,
+                        500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        500000,
+                        500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        500000,
+                        -500000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "07ff4b39-0429-4ebd-b4b0-a1a6adb650b4"
+}

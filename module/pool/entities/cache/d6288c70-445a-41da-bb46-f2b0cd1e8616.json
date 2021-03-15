@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "1c360eea-58ea-4c7c-bf97-9edfde45ff79": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "38a1754e-5aee-4333-8014-fb549133612c"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TLV320DAC3203IRGET",
+    "prefix": "U",
+    "tags": [
+        "dac",
+        "pl"
+    ],
+    "type": "entity",
+    "uuid": "d6288c70-445a-41da-bb46-f2b0cd1e8616"
+}

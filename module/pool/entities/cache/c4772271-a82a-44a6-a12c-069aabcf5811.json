@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "86e13689-110a-4d4b-9daa-e3a83556461f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1fc77052-46a1-4aa6-a23b-caceeaaca68a"
+        }
+    },
+    "manufacturer": "",
+    "name": "RGB LED",
+    "prefix": "D",
+    "tags": [
+        "generic",
+        "led"
+    ],
+    "type": "entity",
+    "uuid": "c4772271-a82a-44a6-a12c-069aabcf5811"
+}

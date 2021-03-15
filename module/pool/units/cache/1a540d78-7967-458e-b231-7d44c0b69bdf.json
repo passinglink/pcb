@@ -1,0 +1,410 @@
+{
+    "manufacturer": "",
+    "name": "pl_nvme",
+    "pins": {
+        "003513c4-a23e-4001-ad34-3987a834b12c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.24",
+            "swap_group": 0
+        },
+        "0113b71f-8cac-41ff-8154-71f94430dd16": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX2_3",
+            "swap_group": 0
+        },
+        "0308a0e0-abd9-4d15-a4e1-aebe4332b5b6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX3_3",
+            "swap_group": 0
+        },
+        "0403e0a7-1bd2-41da-ade3-366aaa86e235": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX1_3",
+            "swap_group": 0
+        },
+        "0513e713-be83-4edf-b01a-7069fbe23bc8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.12",
+            "swap_group": 0
+        },
+        "1379130c-60b0-442a-ac2f-ed1ecb386baf": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "I2C_SCL",
+            "swap_group": 0
+        },
+        "1798c1ce-400f-4bef-b066-cc814c256687": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.04",
+            "swap_group": 0
+        },
+        "1ee9c149-dab6-4be9-b1fb-13bd938e971e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX3_4",
+            "swap_group": 0
+        },
+        "20b3ac5c-4844-4126-91f1-e90a2eb1a788": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX1_5",
+            "swap_group": 0
+        },
+        "22f26a3a-d62a-426b-87f7-6248e2f353ac": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AIN4",
+            "swap_group": 0
+        },
+        "230f447e-649f-49ad-b650-50b48c709457": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SWDIO",
+            "swap_group": 0
+        },
+        "242c8720-53f8-435a-bba3-98675ea69e53": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX2_1",
+            "swap_group": 0
+        },
+        "25a34a0c-948a-4b7b-96d7-c755b9e2422e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX1_4",
+            "swap_group": 0
+        },
+        "2732dc6f-b1ac-4a00-b933-f09295a8a04e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND_1",
+            "swap_group": 0
+        },
+        "2e4cae3a-a5be-453c-b432-0a7815d2fa73": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX2_0",
+            "swap_group": 0
+        },
+        "377ef67c-edd6-4752-9df1-5a92bb61ae44": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB_VBUS_2",
+            "swap_group": 0
+        },
+        "3821db59-bd3f-41c2-894f-c35a48924d25": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.07",
+            "swap_group": 0
+        },
+        "3ebf4ab9-a77c-4dee-ab51-4a3a52a34cd3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX0_2",
+            "swap_group": 0
+        },
+        "3ecd49ba-cc27-43c1-876b-777c973bbedc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AIN7*",
+            "swap_group": 0
+        },
+        "429fbcd8-7f2c-4dd0-bead-157ae47034d0": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "3V3_2",
+            "swap_group": 0
+        },
+        "441d4925-fa41-4dc9-8d15-0a3799b5c3c4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HP_R",
+            "swap_group": 0
+        },
+        "44291067-78e7-493a-a4b3-b88a3d0f16b0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.06",
+            "swap_group": 0
+        },
+        "4b097f26-7a6c-4580-b5b5-1cc09b7a395c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX2_5",
+            "swap_group": 0
+        },
+        "5259399f-d182-422d-9327-484c2951ce3f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.00",
+            "swap_group": 0
+        },
+        "5352c458-f158-4d7e-be78-132a62ff31a8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.09",
+            "swap_group": 0
+        },
+        "56bc6730-bb3a-428f-b8c5-6190e7ebe83c": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "3V3_1",
+            "swap_group": 0
+        },
+        "5782dd8e-b76f-4114-9edf-41246a49e09b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX1_7",
+            "swap_group": 0
+        },
+        "5dae941a-a724-43a2-b01d-9983625f855f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AIN5*",
+            "swap_group": 0
+        },
+        "63984ed4-4717-4b6d-9283-d1714e1c12e2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.15",
+            "swap_group": 0
+        },
+        "66ea6de8-809d-47a8-967d-e009c8861a80": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX1_6",
+            "swap_group": 0
+        },
+        "69d37dac-c185-4c91-a741-72e8d9331cb1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX2_2",
+            "swap_group": 0
+        },
+        "6cbedcb2-b897-457e-8c30-1af2aeb97e0b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX0_0",
+            "swap_group": 0
+        },
+        "7436cadf-1084-46fb-8758-127603f79d7f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX0_1",
+            "swap_group": 0
+        },
+        "76f3e4ad-db3f-4983-8246-7a1bcc390d53": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AIN2",
+            "swap_group": 0
+        },
+        "8433999e-697a-4f14-8bf5-f781d4b345de": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX2_4",
+            "swap_group": 0
+        },
+        "984408ff-b05a-4206-b294-028a0957c5af": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.13*/BOOTLOADER",
+            "swap_group": 0
+        },
+        "98aa0fce-e162-4c46-814a-ebbcb5ca1f98": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AIN1*",
+            "swap_group": 0
+        },
+        "9b2b73e3-1f4c-4bf0-9d37-45a6400d230c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "I2C_RST",
+            "swap_group": 0
+        },
+        "9b6f49eb-1bb9-4b71-af03-ee39b01076f4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SWDCLK",
+            "swap_group": 0
+        },
+        "9e8380b0-eaf3-423a-b55f-f8885f88473d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB_D+",
+            "swap_group": 0
+        },
+        "ad0dbb49-e15a-4784-ac11-5ef18e672dd0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX0_5",
+            "swap_group": 0
+        },
+        "adfcc2be-aa98-468e-9b26-ff4594b5763a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX2_7",
+            "swap_group": 0
+        },
+        "aecea632-3085-4a1b-a292-a24e6dd0f481": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.02",
+            "swap_group": 0
+        },
+        "b11d9c17-a862-45b2-b00f-670153f4d4cc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX0_7",
+            "swap_group": 0
+        },
+        "b24158f4-8000-4d1a-b1ca-50c42ff64f9e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB_D-",
+            "swap_group": 0
+        },
+        "b8e4098f-d6aa-4bff-8931-f9e330c0ab42": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AIN0*",
+            "swap_group": 0
+        },
+        "b8e4ca16-a6d4-4440-a08d-3d34f0b45343": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AIN6*",
+            "swap_group": 0
+        },
+        "c10d9f89-bb41-4650-afe4-13ebd4b11270": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND_2",
+            "swap_group": 0
+        },
+        "c9e341e4-0cdd-42b0-b2ae-230f39332c8c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX0_4",
+            "swap_group": 0
+        },
+        "cab63e7d-8bb6-4b39-bed8-7c186d2ad294": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.09",
+            "swap_group": 0
+        },
+        "cc188460-c533-43fc-85a8-020a941d8011": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.20",
+            "swap_group": 0
+        },
+        "ce96e771-b1fd-4f3f-80ed-cff2809aa126": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.22",
+            "swap_group": 0
+        },
+        "cee5be68-daec-47d1-952e-b3655e759f93": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0_18",
+            "swap_group": 0
+        },
+        "d94643c7-606a-4506-9e3a-97561757fa6f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.10",
+            "swap_group": 0
+        },
+        "d9e5ca19-b6f0-4db3-9f96-c92794e7fb20": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX3_2",
+            "swap_group": 0
+        },
+        "df392734-8443-4885-954a-43daf2020261": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AIN3",
+            "swap_group": 0
+        },
+        "e169a40e-030d-437f-afa2-7ad8e45daafe": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB_VBUS_1",
+            "swap_group": 0
+        },
+        "e39a32fd-753b-4eeb-92b4-4e46a7211898": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX0_3",
+            "swap_group": 0
+        },
+        "f4230edb-d6e8-415f-b4f1-9472ed1c59c4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX0_6",
+            "swap_group": 0
+        },
+        "f4d371d7-a44a-4946-9fcf-4910e4f19d20": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX3_1",
+            "swap_group": 0
+        },
+        "f5fed568-8221-4986-a4f8-9b25cf18a6fc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX2_6",
+            "swap_group": 0
+        },
+        "f6b52326-d80d-4939-8c0d-399726bb7225": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AUX3_0",
+            "swap_group": 0
+        },
+        "f777319a-b947-40fb-84c5-365efa8f0621": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.13",
+            "swap_group": 0
+        },
+        "f9626b47-7cae-4532-a3a5-8d0f9bffcb41": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.17",
+            "swap_group": 0
+        },
+        "fb6080a5-d209-4233-ac7e-e91c562bb41a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HP_L",
+            "swap_group": 0
+        },
+        "fef6883e-3243-4a37-a166-f6cbdb223f88": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.06",
+            "swap_group": 0
+        },
+        "fff130e8-f9d1-4022-bd3d-05216a80a119": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "I2C_SDA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1a540d78-7967-458e-b231-7d44c0b69bdf"
+}

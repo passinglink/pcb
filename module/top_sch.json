@@ -5816,5 +5816,6 @@
         "rev": "1"
     },
     "type": "schematic_block",
-    "uuid": "00d95441-e807-4118-9ac0-ef954777316d"
+    "uuid": "00d95441-e807-4118-9ac0-ef954777316d",
+    "version": 1
 }

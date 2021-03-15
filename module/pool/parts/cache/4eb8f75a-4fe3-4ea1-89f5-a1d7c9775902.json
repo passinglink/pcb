@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "FM-B2020RGBA-HG"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/1810231210_Foshan-NationStar-Optoelectronics-FM-B2020RGBA-HG_C108793.pdf"
+    ],
+    "description": [
+        false,
+        "RGB LED"
+    ],
+    "entity": "c4772271-a82a-44a6-a12c-069aabcf5811",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Foshan NationStar Optoelectronics"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "015aa551-a63e-4441-8832-74add7652775",
+    "pad_map": {
+        "35db4735-b455-452d-bd73-cc4e46076c7a": {
+            "gate": "86e13689-110a-4d4b-9daa-e3a83556461f",
+            "pin": "e7d9caf4-f5f5-4466-bd0f-0248453ff5b3"
+        },
+        "36864e8b-9006-4cdd-bb17-04922afb99c7": {
+            "gate": "86e13689-110a-4d4b-9daa-e3a83556461f",
+            "pin": "2e4b4e9c-5089-4b8a-9049-8b45fe59f1f8"
+        },
+        "d09f1818-ad9e-4881-b374-bc4f124fc613": {
+            "gate": "86e13689-110a-4d4b-9daa-e3a83556461f",
+            "pin": "a407c4c4-7b24-4077-8ab6-edd4b50f7602"
+        },
+        "f7d1a143-67cc-4dfc-aeb4-66be7fbe43bd": {
+            "gate": "86e13689-110a-4d4b-9daa-e3a83556461f",
+            "pin": "745e97f6-2b6d-4900-8ab5-13b1ac2c69b5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led",
+        "rgb"
+    ],
+    "type": "part",
+    "uuid": "4eb8f75a-4fe3-4ea1-89f5-a1d7c9775902",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "default_via": "00000000-0000-0000-0000-000000000000",
+    "name": "Project pool",
+    "pools_included": [
+        "418ac095-fde6-4c18-8d26-135264d6df1b"
+    ],
+    "type": "pool",
+    "uuid": "466088f9-3f15-420d-af8a-fff902537aed"
+}

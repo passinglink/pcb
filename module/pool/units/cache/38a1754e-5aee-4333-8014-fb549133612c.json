@@ -1,0 +1,152 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TLV320DAC3203IRGET ",
+    "pins": {
+        "039b10ed-0ad2-4b82-a681-0c675fd51963": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "WCLK",
+            "swap_group": 0
+        },
+        "181ab036-031e-4b17-8761-dd973d037458": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MFP4",
+            "swap_group": 0
+        },
+        "2e920c6d-1fb2-462f-bf4e-7e211d742777": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "40ca5c5d-f770-4f30-bedd-55c6d6ce92fa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IOVss",
+            "swap_group": 0
+        },
+        "45c2be59-1cae-40d9-aa0f-8928ed5c44aa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IOVdd",
+            "swap_group": 0
+        },
+        "544a7a58-86fe-43ce-b2bd-e6f9367ab4c7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MFP3",
+            "swap_group": 0
+        },
+        "5ed3dbc8-7000-48b6-bc9f-c95267cc1511": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BCLK",
+            "swap_group": 0
+        },
+        "7cd5c184-069a-45fc-aa1b-f5766503707e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "REF",
+            "swap_group": 0
+        },
+        "7f1cbea0-e1ef-4503-8d7e-c3ceedcedac8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET_N",
+            "swap_group": 0
+        },
+        "8e753a5f-10f7-4913-9a77-6c46fe744081": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Dout",
+            "swap_group": 0
+        },
+        "9dcd99ac-42bf-4cff-afa3-03174d52a36b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Din",
+            "swap_group": 0
+        },
+        "a244f080-88b2-4d9c-a1a3-fc68feb1fb22": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI_SELECT",
+            "swap_group": 0
+        },
+        "a8c97791-e696-4533-9e1e-9dcb1527ea48": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MICBIAS",
+            "swap_group": 0
+        },
+        "b6019315-9792-49ca-afe4-ecb72dadbec7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MCLK",
+            "swap_group": 0
+        },
+        "bbdd79c9-7d69-42ef-9a32-a85ba5b44098": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INR",
+            "swap_group": 0
+        },
+        "c58733ec-b0b0-4740-b03b-52e65bf9dc66": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INL",
+            "swap_group": 0
+        },
+        "cf16bad1-50ad-432d-9848-184ae5d923d4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DVdd",
+            "swap_group": 0
+        },
+        "d3be5d8a-095d-4250-9f35-537f487f4253": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AVdd",
+            "swap_group": 0
+        },
+        "d534a1b6-fd26-4ea4-aff8-fab432348c99": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DVss",
+            "swap_group": 0
+        },
+        "e695327a-75c4-4438-96e1-caed857d435c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "e78af515-98db-41ec-a2ff-1c05aecffd9b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HPL",
+            "swap_group": 0
+        },
+        "ebfd069a-cf36-43c8-b7d7-c5f0b4e5115b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AVss",
+            "swap_group": 0
+        },
+        "fb4d13ec-22d1-4cab-9aba-d6559f8bb3a2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HPR",
+            "swap_group": 0
+        },
+        "fe4f861f-9c0e-4e68-9432-ec2a35f6f098": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "LDOin",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "38a1754e-5aee-4333-8014-fb549133612c"
+}

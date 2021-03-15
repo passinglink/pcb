@@ -1,0 +1,135 @@
+{
+    "MPN": [
+        false,
+        "AW9523BTQR"
+    ],
+    "datasheet": [
+        false,
+        "https://pdf1.alldatasheet.net/datasheet-pdf/marking/1148543/AWINIC/AW9523BTQR/+0148777XvUpOKG+GcGDCDLede+/datasheet.pdf"
+    ],
+    "description": [
+        false,
+        "IO expander 16 GPIO, I2C 400kHz, Interrupt, QFN-24"
+    ],
+    "entity": "57c4a026-24a6-4291-b6cb-f126d1034ee2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "AWINIC Technology"
+    ],
+    "model": "57de1d41-994b-473a-a66f-4bc1d31d12b8",
+    "package": "3297f818-1efc-4cd4-91af-c834cf26c1a7",
+    "pad_map": {
+        "00b67f22-87e5-48d8-8ad3-c54285d7e16c": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "cbbd8f94-a1a0-4763-b489-1cfa7e418590"
+        },
+        "041e4636-cf36-4b9e-9533-2669c0c145ae": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "b62382ff-3eed-4af3-a82d-c218602efc90"
+        },
+        "11f393a3-73ba-4745-bcd6-d32d8457d0ee": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "27f6556d-cbb2-4c38-88c9-f9e8d855d197"
+        },
+        "1a40528e-2de7-4a2e-a758-fd2c16e1c07f": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "793619d0-340b-4895-b19d-5c0ccf94ccb0"
+        },
+        "2868dcd6-4976-4738-9ffe-d00d255ede74": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "fafe5a25-2474-45f9-acf8-69e21c922962"
+        },
+        "361f67f0-84cb-4a8c-8cf7-6c76427af50f": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "6870ada7-5816-4c0c-9d68-78c117a8ec72"
+        },
+        "3d2df1fb-bdea-459a-99f5-8baf12cdc9af": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "4c4b0583-2c56-4e39-a120-fe55a071086f"
+        },
+        "5a2d1897-6ccb-40eb-9e85-2685015850eb": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "1b5ded11-4f74-4137-9b7e-5ae718ecae48"
+        },
+        "5e9dbe82-13b1-4796-88a0-88e066164644": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "252cb63e-5832-46d7-bfa5-4a1848eb54e5"
+        },
+        "6035982c-4f47-45d3-b66f-a684e6cfec2a": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "8ccc1d5e-6a81-4bad-ab0e-b3dd6b4ebd15"
+        },
+        "7e849e39-86af-4ed6-acdb-930a3c8c7569": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "665f358f-3abe-4996-a154-10f6dbf4ec6f"
+        },
+        "90f7c63c-0819-487d-95f1-bfab085ade4a": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "665f358f-3abe-4996-a154-10f6dbf4ec6f"
+        },
+        "9b801829-38c5-45f1-a655-bd34c7a18c5e": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "1d529137-7e5c-4eda-b0e0-fb22d962b5e9"
+        },
+        "9dbd20a1-54c8-4fc3-b36c-f06d13b8808b": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "6eeaff66-eeb4-46df-97fa-82228c1549a8"
+        },
+        "9ddbea20-0a3a-4957-8541-99d007c73c08": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "6ce8b921-567e-4a4e-b813-bd1fbc1f5a97"
+        },
+        "a21a1022-cbda-4f01-9fea-a3c458bec02e": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "a643f01c-38b7-4da8-8ef0-ba55c505090d"
+        },
+        "a5a6fd50-faee-44f6-9b6f-84665330a2cf": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "a41d0e64-8fce-4acd-8aef-9c0b21b4d754"
+        },
+        "a8893ddd-7e76-4971-b2f0-0effdd1cde9e": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "56b64d85-8ad0-4624-8665-b0e309845c1d"
+        },
+        "a94b58b0-347a-4e9b-83b7-ec84205a8a5d": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "31f3b249-c603-4c58-8fb3-c842c8c30144"
+        },
+        "d0a13854-ac0c-4790-a8fb-9875fb81b5d6": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "d1e0eb5e-d5de-4027-9155-1923c3e4f791"
+        },
+        "d3a7b798-246f-4d14-8875-1b12644def1f": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "4e67704c-0a1d-448d-93e9-c6a1e8bf18e3"
+        },
+        "de092010-a655-4ea4-87b3-97fcbe240458": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "7fca1f47-029e-4591-9986-76c690b8846c"
+        },
+        "e36b1ab0-1f9c-4eb8-a631-0d8cca96dd5f": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "e615b640-867b-47ed-82c1-68925073eeae"
+        },
+        "e7c161fc-5afe-4d8f-b838-83fe113a3e37": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "2fab32ea-40f7-453a-98f6-a8ed780d5e20"
+        },
+        "eb997f86-4252-41e2-8df3-ce00974c477e": {
+            "gate": "4bb46519-ed69-4da7-b3cb-8bc12f91a554",
+            "pin": "15da7883-8877-473c-a6c0-d44ecbe279fa"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "pl"
+    ],
+    "type": "part",
+    "uuid": "aacc4d52-a58c-495b-ba6d-fa79b91b7992",
+    "value": [
+        false,
+        ""
+    ]
+}
