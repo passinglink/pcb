@@ -1,22 +1,12 @@
 {
     "arcs": {},
-    "default_model": "17df82d4-4a8c-45a5-a7a6-66d5259fd78a",
+    "default_model": "00000000-0000-0000-0000-000000000000",
     "dimensions": {},
     "junctions": {},
     "keepouts": {},
     "lines": {},
     "manufacturer": "JAE Electronics",
-    "models": {
-        "17df82d4-4a8c-45a5-a7a6-66d5259fd78a": {
-            "filename": "3d_models/cache/418ac095-fde6-4c18-8d26-135264d6df1b/3d_models/K3D-DX07S016JA1-V1_JAE_Proprietary.STEP",
-            "pitch": 0,
-            "roll": 0,
-            "x": 0,
-            "y": 2250000,
-            "yaw": 0,
-            "z": 1600000
-        }
-    },
+    "models": {},
     "name": "DX07S016JA1R1500",
     "pads": {
         "08794044-5ffe-4407-92bd-25bcdac1f9e5": {
