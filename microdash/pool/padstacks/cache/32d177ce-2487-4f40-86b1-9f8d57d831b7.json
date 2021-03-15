@@ -1,0 +1,110 @@
+{
+    "holes": {
+        "aad60944-b2c4-4a0c-88e0-b52cabcfa95b": {
+            "diameter": 4200000,
+            "length": 500000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        }
+    },
+    "name": "SMT spacer",
+    "padstack_type": "through",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {
+        "35d48caf-d547-4382-b165-77cc9cc637d6": {
+            "form": "circle",
+            "layer": 0,
+            "parameter_class": "copper",
+            "params": [
+                6200000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "57c576a3-1d92-43e7-8760-fe443a23f1af": {
+            "form": "circle",
+            "layer": 10,
+            "parameter_class": "mask",
+            "params": [
+                6400000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "7ce79fc2-169e-44ce-b355-473cddadba0f": {
+            "form": "circle",
+            "layer": -110,
+            "parameter_class": "mask",
+            "params": [
+                6400000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "bed217e6-2bf3-4ac3-bfe4-544dfa66c2e5": {
+            "form": "circle",
+            "layer": -1,
+            "parameter_class": "copper",
+            "params": [
+                6200000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "d71acd28-ea4c-4a7a-b746-8f609baeb703": {
+            "form": "circle",
+            "layer": -100,
+            "parameter_class": "copper",
+            "params": [
+                6200000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "32d177ce-2487-4f40-86b1-9f8d57d831b7",
+    "well_known_name": ""
+}

@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "Kailh Choc Socket"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Kailh Choc Socket"
+    ],
+    "entity": "493ab855-219d-4386-bbc3-ed15bc21c1f2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Kailh"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "1d9ca8fa-919d-46f1-bfd1-f6b737aa97dd",
+    "pad_map": {
+        "bdca3714-360c-40a0-aa0a-6365aa05277d": {
+            "gate": "78fcdb24-de07-464a-9495-5e5664767fd7",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        },
+        "c86254a1-fe65-4d3f-bf21-adacc1e3b0d3": {
+            "gate": "78fcdb24-de07-464a-9495-5e5664767fd7",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "pl",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "dfd9df94-656c-487e-948c-da94ccf1597b",
+    "value": [
+        false,
+        ""
+    ]
+}

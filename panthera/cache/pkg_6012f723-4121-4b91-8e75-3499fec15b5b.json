@@ -1,0 +1,260 @@
+{
+    "arcs": {
+        "0c57f939-cdcd-464f-b34d-9d8b49c29eb0": {
+            "center": "5af58f15-736e-41bc-8f94-14149e41dfe2",
+            "from": "e6840cd3-39fa-44e2-a5b7-7f813b81e824",
+            "layer": 20,
+            "to": "b2e378db-ff8b-4472-8ed0-e4bc9b35eb35",
+            "width": 150000
+        },
+        "2cce0277-2d5d-4880-a4b1-f8bad34d7d8b": {
+            "center": "5af58f15-736e-41bc-8f94-14149e41dfe2",
+            "from": "b2e378db-ff8b-4472-8ed0-e4bc9b35eb35",
+            "layer": 20,
+            "to": "e6840cd3-39fa-44e2-a5b7-7f813b81e824",
+            "width": 150000
+        }
+    },
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {
+        "04df215d-e6fb-45dc-bc3d-de2148159a72": {
+            "position": [
+                3375000,
+                -1250000
+            ]
+        },
+        "14f4cc55-b2a2-4556-b013-95e3a774002b": {
+            "position": [
+                3375000,
+                1250000
+            ]
+        },
+        "255d41e2-4442-4cbc-b1d3-2d1fc5ab558f": {
+            "position": [
+                2625000,
+                -2000000
+            ]
+        },
+        "3369c0b0-1210-469b-8a3b-6ca017de43ff": {
+            "position": [
+                2250000,
+                500000
+            ]
+        },
+        "4e4fc454-4ff0-4d9a-8dc4-e86b98dbd26d": {
+            "position": [
+                2625000,
+                -500000
+            ]
+        },
+        "5af58f15-736e-41bc-8f94-14149e41dfe2": {
+            "position": [
+                1250000,
+                0
+            ]
+        },
+        "658bb5fc-41f3-4d66-bc9a-12c008cc58a3": {
+            "position": [
+                2250000,
+                -2250000
+            ]
+        },
+        "66d9706e-1f26-40b6-aaaf-2f704e4b62b3": {
+            "position": [
+                3000000,
+                1750000
+            ]
+        },
+        "8e01adea-27b6-4ea0-81ef-187bd74a599c": {
+            "position": [
+                2625000,
+                2000000
+            ]
+        },
+        "8e7ebfd5-49c6-4805-9d6a-03fc3322f494": {
+            "position": [
+                3000000,
+                -1750000
+            ]
+        },
+        "94534918-a703-4a46-96a5-b2c27a99870f": {
+            "position": [
+                2250000,
+                -500000
+            ]
+        },
+        "b2e378db-ff8b-4472-8ed0-e4bc9b35eb35": {
+            "position": [
+                3750000,
+                0
+            ]
+        },
+        "d9e8e172-e2cd-4e41-902b-f440bd239d88": {
+            "position": [
+                2625000,
+                500000
+            ]
+        },
+        "db0ab7b8-0f47-4d6d-a6b9-6b21a9f8a361": {
+            "position": [
+                1875000,
+                -2375000
+            ]
+        },
+        "e6840cd3-39fa-44e2-a5b7-7f813b81e824": {
+            "position": [
+                -1250000,
+                0
+            ]
+        },
+        "f29c6afb-9958-4506-962a-856e14677d4c": {
+            "position": [
+                2250000,
+                2250000
+            ]
+        },
+        "ff8c0112-f178-49d3-8875-de3445831375": {
+            "position": [
+                1875000,
+                2375000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "2c462ff0-0c1a-4343-a8d7-a54a9bb402c0": {
+            "from": "255d41e2-4442-4cbc-b1d3-2d1fc5ab558f",
+            "layer": 20,
+            "to": "4e4fc454-4ff0-4d9a-8dc4-e86b98dbd26d",
+            "width": 150000
+        },
+        "66f342ff-d99a-497c-820b-2112fabaa3b2": {
+            "from": "8e7ebfd5-49c6-4805-9d6a-03fc3322f494",
+            "layer": 20,
+            "to": "66d9706e-1f26-40b6-aaaf-2f704e4b62b3",
+            "width": 150000
+        },
+        "6b0dc965-f0ca-4951-b791-8273b4c1d52e": {
+            "from": "3369c0b0-1210-469b-8a3b-6ca017de43ff",
+            "layer": 20,
+            "to": "f29c6afb-9958-4506-962a-856e14677d4c",
+            "width": 150000
+        },
+        "a5868489-c140-4b28-9b66-df44208181c7": {
+            "from": "658bb5fc-41f3-4d66-bc9a-12c008cc58a3",
+            "layer": 20,
+            "to": "94534918-a703-4a46-96a5-b2c27a99870f",
+            "width": 150000
+        },
+        "b8df9e33-6321-4ca3-aa12-575f1dd5955f": {
+            "from": "8e01adea-27b6-4ea0-81ef-187bd74a599c",
+            "layer": 20,
+            "to": "d9e8e172-e2cd-4e41-902b-f440bd239d88",
+            "width": 150000
+        },
+        "d7aff7b7-215e-49cc-9699-6171c01088a0": {
+            "from": "14f4cc55-b2a2-4556-b013-95e3a774002b",
+            "layer": 20,
+            "to": "04df215d-e6fb-45dc-bc3d-de2148159a72",
+            "width": 150000
+        },
+        "dee86f82-bfea-4bfe-a70a-4d375cf4d5c9": {
+            "from": "ff8c0112-f178-49d3-8875-de3445831375",
+            "layer": 20,
+            "to": "db0ab7b8-0f47-4d6d-a6b9-6b21a9f8a361",
+            "width": 150000
+        }
+    },
+    "manufacturer": "",
+    "models": {},
+    "name": "TH Capacitor, 2.5mm pitch, 5.0mm diameter",
+    "pads": {
+        "4fd4d084-2c3b-4b44-b256-eb0a16d0a9d9": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 400000,
+                "pad_diameter": 600000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "e2e75812-9541-4f38-bd40-4b1ba2b98788": {
+            "name": "2",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 400000,
+                "pad_diameter": 600000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {
+        "36b874ff-a02e-4a64-8a54-5e7c238a7eca": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -375000,
+                    -3625000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "f8b4fad1-1162-42ef-b672-971d591dda0d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2875000,
+                    0
+                ]
+            },
+            "size": 1000000,
+            "text": "+",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "6012f723-4121-4b91-8e75-3499fec15b5b"
+}

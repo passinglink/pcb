@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "RT9078-33GQZ"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/1804250120_Richtek-Tech-RT9078-33GQZ_C147954.pdf"
+    ],
+    "description": [
+        false,
+        "2μA IQ, 300mA Low-Dropout Linear Regulator"
+    ],
+    "entity": "fe8d73b2-3eb8-4334-9cf6-b152688daf1d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Richtek"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "07ff4b39-0429-4ebd-b4b0-a1a6adb650b4",
+    "pad_map": {
+        "1e56de8f-50ca-4c10-aab0-1c66348be69e": {
+            "gate": "5939d61d-8fa3-4137-a53a-0fcf88e8e197",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "38339533-e770-479f-bd3d-4c3e0b68739a": {
+            "gate": "5939d61d-8fa3-4137-a53a-0fcf88e8e197",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        },
+        "57dfcfc1-bc1f-4780-849e-9167c5dcfdf3": {
+            "gate": "5939d61d-8fa3-4137-a53a-0fcf88e8e197",
+            "pin": "2f2e33ae-ea54-4fc9-b2c0-e6be3e1d02e0"
+        },
+        "7c852995-0823-40ae-b6c0-903fbe1cbe99": {
+            "gate": "5939d61d-8fa3-4137-a53a-0fcf88e8e197",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "cc3d7ba0-3983-46f6-bfc2-91aa1a29b4b2": {
+            "gate": "5939d61d-8fa3-4137-a53a-0fcf88e8e197",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ldo",
+        "pl",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "50662497-5c1a-4ff8-b0e1-081bfb1bfe40",
+    "value": [
+        false,
+        ""
+    ]
+}

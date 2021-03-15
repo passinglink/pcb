@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "High-side load switch",
+    "pins": {
+        "02091468-56ff-4e6b-ac2d-1babdda137de": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENABLE",
+            "swap_group": 0
+        },
+        "249f0106-2ac2-42a0-8124-2094346ec98a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vss",
+            "swap_group": 0
+        },
+        "c3713cfb-6b9d-46bf-88b3-8f9f74715f36": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vin",
+            "swap_group": 0
+        },
+        "d5e6aff0-c508-4543-9e04-0f82520ed0a4": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "Vout",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5ce6417c-ea3f-4dc7-86e7-b6d7a6ade57a"
+}

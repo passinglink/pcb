@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Murata Electronics",
+    "name": "CSTNE12M2G55A000R0",
+    "pins": {
+        "a1d855cc-db98-4dad-a72c-2aafacf8bee1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "X1",
+            "swap_group": 0
+        },
+        "a7cebe10-185d-48f3-a2b4-b09f8d755038": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "X2",
+            "swap_group": 0
+        },
+        "e9a9a34d-52ba-4820-b7f9-02b2e8b8c7ab": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3d16d23a-d2ec-4968-99ac-d2dfcc02424e"
+}

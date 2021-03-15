@@ -1,0 +1,38 @@
+{
+    "manufacturer": "",
+    "name": "Three-terminal voltage regulator with enable, bypass",
+    "pins": {
+        "20f0495c-5e6e-4975-b440-1399ca09d3c3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "2f2e33ae-ea54-4fc9-b2c0-e6be3e1d02e0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "304699c2-7433-4b03-ad2c-c8df631dd06f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vin",
+            "swap_group": 0
+        },
+        "559d5e91-2169-486b-9ece-8db9867957dd": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "Vout",
+            "swap_group": 0
+        },
+        "b37a4ff3-f646-4da9-bc78-2234abb1d91d": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "BYP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "403d4e28-88ea-4007-8d38-71e606d59ee7"
+}

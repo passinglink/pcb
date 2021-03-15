@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "75b38fce-91f7-4847-8f9e-c5edcb3c3282": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5ce6417c-ea3f-4dc7-86e7-b6d7a6ade57a"
+        }
+    },
+    "manufacturer": "Torex Semiconductor",
+    "name": "XC8102",
+    "prefix": "U",
+    "tags": [
+        "transistor"
+    ],
+    "type": "entity",
+    "uuid": "2d659af8-d880-4afb-be2c-3615db472e08"
+}

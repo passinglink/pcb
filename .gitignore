@@ -1,0 +1,16 @@
+*.imp_meta
+*.gbl
+*.gbo
+*.gbp
+*.gbs
+*.gko
+*.gtl
+*.gto
+*.gtp
+*.gts
+*.zip
+plots/
+
+*.db
+*.db-shm
+*.db-wal

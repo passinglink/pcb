@@ -1,0 +1,5 @@
+*.db
+*.db-shm
+*.db-wal
+tmp/*.json
+3d_models/local

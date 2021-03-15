@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "37b229b9-b672-4322-956d-820920d1ffc9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1a540d78-7967-458e-b231-7d44c0b69bdf"
+        }
+    },
+    "manufacturer": "",
+    "name": "pl_nvme",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "pl"
+    ],
+    "type": "entity",
+    "uuid": "35ced229-ff15-4e47-8bad-a1ff3da03155"
+}

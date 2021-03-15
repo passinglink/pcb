@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "JST-XH-4"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4 pin JST-XH female connector"
+    ],
+    "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "JST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d4dbd4ed-b602-499b-9525-47e0c5c8df2c",
+    "pad_map": {
+        "64c4c08f-ad69-4f3e-a41b-bdc612082660": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "680beda8-f799-492b-b958-aa3dfb262113": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        },
+        "bf90cb8f-342c-4169-a28e-8c1c68c63c0d": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "f80d6a4b-afe7-43ef-9ea8-226166f7b174": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "e42c077a-91ef-42ca-a45b-c55c9c2b3c58",
+    "value": [
+        false,
+        ""
+    ]
+}

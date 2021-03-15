@@ -1,0 +1,856 @@
+{
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {
+        "117333f4-ace1-48f6-b68b-0660842298e4": {
+            "connections": {
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/1803365d-f745-4921-a54f-c5df6afa6561": {
+                    "net": "2bc713b7-7dd9-4986-a7c0-6eb847dfd998"
+                },
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/4c0e5d34-b007-432d-880b-3a3b8e963a14": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/b22250f7-9956-4ac8-ada1-725b7ba800c8": {
+                    "net": "20ff5174-dc94-464a-a448-c3cd98491a00"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "795937f6-a681-4a7b-a9c4-5902fb7811b7",
+            "pin_names": {},
+            "refdes": "FRONT_LED",
+            "tag": "545d0c8e-8f5c-4590-8ad6-e3e5819402a8",
+            "value": ""
+        },
+        "2e0dd535-445e-412f-a788-a05d5ca2c595": {
+            "connections": {
+                "23766b63-6ffc-4831-baee-ba1635a735b3/1e7cd34f-86db-4b34-9e0b-c276756301ab": {
+                    "net": "61adc93a-b771-4f5d-ba33-95f048e034fd"
+                },
+                "23766b63-6ffc-4831-baee-ba1635a735b3/bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6": {
+                    "net": "31988f7b-9ee0-43b8-8928-d2e27020b0f3"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "ca11f45a-cdd1-4c05-ab81-f1ea3c8754bb",
+            "pin_names": {},
+            "refdes": "C1",
+            "tag": "efb7f6e4-6938-4ec9-824c-a9f4dcd548af",
+            "value": ""
+        },
+        "62d0c2a4-9926-4ece-8c93-9a3caf7d372a": {
+            "connections": {
+                "a96a662e-2077-467f-9853-a01865f76ad6/423d0d6c-4330-417f-a6f0-267741d4c770": {
+                    "net": "77f3af82-01a0-488d-9763-e87b4c1b9d06"
+                },
+                "a96a662e-2077-467f-9853-a01865f76ad6/4b3e1234-17b7-41dc-af26-90574ec82303": {
+                    "net": "00d92161-6187-4f39-be50-1fba48c53833"
+                },
+                "a96a662e-2077-467f-9853-a01865f76ad6/9c153b03-fb7b-4f99-a5ed-ca45d3ae512e": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "a96a662e-2077-467f-9853-a01865f76ad6/aab503ca-26da-43ff-a268-cf0db0698910": {
+                    "net": "20ff5174-dc94-464a-a448-c3cd98491a00"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "e42c077a-91ef-42ca-a45b-c55c9c2b3c58",
+            "pin_names": {},
+            "refdes": "SWD",
+            "tag": "44915439-caa2-4d17-8055-0d7e5117b802",
+            "value": ""
+        },
+        "68e793bd-3773-4797-a68b-7726bfa14c83": {
+            "connections": {
+                "20edec02-8ea3-4110-859f-3bc8763413e9/12ae6a07-1a85-483d-9108-b5e6324cbe21": {
+                    "net": "346a3bc3-070c-4ea5-ae53-90637c3ee311"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/15fabdd4-fee6-4be1-aece-3feb600803ec": {
+                    "net": "47f21bde-862e-4f46-aff8-f5e97b779bbb"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/18e66607-d746-4486-985f-551105de6ac8": {
+                    "net": "c56a74de-dfe0-4612-9f84-690329a4f34f"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/1dde94a9-6215-4762-ac6f-aed11687c202": {
+                    "net": "a5171641-8230-4959-9114-8c7a9aac5236"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/256c7fa3-4d4e-44c7-a519-b58beeb29dc7": {
+                    "net": "e9769f7c-1c40-4d8b-9aab-08be5886318b"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/4e6dfed7-8128-4bfc-bc94-be4acc1782a2": {
+                    "net": "c7b1841e-ffab-45db-8431-8cb123c6d1ee"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/7549aba0-6cbf-42cc-8fff-65bfcd239e46": {
+                    "net": "4a4559f7-0d1c-4f58-b2b3-5807d956e145"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/8f6430ab-6328-4419-a391-76d66a9653ad": {
+                    "net": "2475eca2-07a3-44f1-a26a-9738ac2088c9"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/9db63682-fc12-41c4-93ca-837bcc7803f0": {
+                    "net": "0afe6455-d86e-4a9e-94d4-a6fb965652a7"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/a685c5fb-bbd6-4f78-ba7a-cfe70695553a": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/ab25e15d-b8c6-4c08-9c82-6f5ef06d7231": {
+                    "net": "d732b8a4-e583-4aec-92aa-65af87580564"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/b05407d7-2fc7-4998-ab79-abeebb9afa4f": {
+                    "net": "c333543c-6120-45cd-8c66-c44357d65ae1"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/b2669572-d30f-4330-a060-ad102b437948": {
+                    "net": "20ff5174-dc94-464a-a448-c3cd98491a00"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/bc319494-5e62-4159-b223-3f1f3132f17c": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/d3011335-fc87-495f-bf25-4c9f96fe67e6": {
+                    "net": "9d4d3b42-5cdd-4c8f-aff9-8bf4932b072a"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/f2b340c3-91b5-4988-9d2e-afc1cd5579fb": {
+                    "net": "717120e4-1581-462d-8e86-7d26e807f90c"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "25ec2415-b41a-4364-9fa8-f2178e91971b",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "35f00590-59eb-4f34-905b-57d67d1e93ed",
+            "pin_names": {},
+            "refdes": "TOP_PANEL",
+            "tag": "cb461991-f8b9-4e84-ab8a-d2683319cebd",
+            "value": ""
+        },
+        "7a5c1789-1dc9-4bb5-aa16-c01361e9d258": {
+            "connections": {
+                "37b229b9-b672-4322-956d-820920d1ffc9/003513c4-a23e-4001-ad34-3987a834b12c": {
+                    "net": "d732b8a4-e583-4aec-92aa-65af87580564"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/0308a0e0-abd9-4d15-a4e1-aebe4332b5b6": {
+                    "net": "0afe6455-d86e-4a9e-94d4-a6fb965652a7"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/0513e713-be83-4edf-b01a-7069fbe23bc8": {
+                    "net": "35354407-e5ec-48da-9141-15a7fd780e3b"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/1379130c-60b0-442a-ac2f-ed1ecb386baf": {
+                    "net": "c4c6a709-a5c5-4841-98fb-0f8d98be86ab"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/22f26a3a-d62a-426b-87f7-6248e2f353ac": {
+                    "net": "f36e48e2-1d65-46ca-86ec-606d720bd371"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/230f447e-649f-49ad-b650-50b48c709457": {
+                    "net": "77f3af82-01a0-488d-9763-e87b4c1b9d06"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/2732dc6f-b1ac-4a00-b933-f09295a8a04e": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/377ef67c-edd6-4752-9df1-5a92bb61ae44": {
+                    "net": "a5b2a8c4-4944-4b46-8ce2-7b49fb9198c2"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/3821db59-bd3f-41c2-894f-c35a48924d25": {
+                    "net": "bffdb231-ab18-41ff-8aaa-852bc1c78562"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/3ecd49ba-cc27-43c1-876b-777c973bbedc": {
+                    "net": "c6694358-e2ab-4ad8-a0c8-640cb52cd5e1"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/429fbcd8-7f2c-4dd0-bead-157ae47034d0": {
+                    "net": "20ff5174-dc94-464a-a448-c3cd98491a00"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/441d4925-fa41-4dc9-8d15-0a3799b5c3c4": {
+                    "net": "61adc93a-b771-4f5d-ba33-95f048e034fd"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/44291067-78e7-493a-a4b3-b88a3d0f16b0": {
+                    "net": "2475eca2-07a3-44f1-a26a-9738ac2088c9"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/5259399f-d182-422d-9327-484c2951ce3f": {
+                    "net": "c7b1841e-ffab-45db-8431-8cb123c6d1ee"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/5352c458-f158-4d7e-be78-132a62ff31a8": {
+                    "net": "479bca5d-f2da-434c-9f9a-e02f7e706a07"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/56bc6730-bb3a-428f-b8c5-6190e7ebe83c": {
+                    "net": "20ff5174-dc94-464a-a448-c3cd98491a00"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/5dae941a-a724-43a2-b01d-9983625f855f": {
+                    "net": "c5026319-4d26-4f33-8cb1-240deb91ab99"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/63984ed4-4717-4b6d-9283-d1714e1c12e2": {
+                    "net": "0d00641f-fc85-4a24-8055-2b62979f3178"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/76f3e4ad-db3f-4983-8246-7a1bcc390d53": {
+                    "net": "68349391-7904-491b-8a3f-0b0e756c6028"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/984408ff-b05a-4206-b294-028a0957c5af": {
+                    "net": "e9769f7c-1c40-4d8b-9aab-08be5886318b"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/98aa0fce-e162-4c46-814a-ebbcb5ca1f98": {
+                    "net": "8d5e588c-4ca7-44dd-bc2f-8810455ff1b6"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/9b2b73e3-1f4c-4bf0-9d37-45a6400d230c": {
+                    "net": "c09b2f5d-2f0e-4a31-a24e-b0bb0926bad9"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/9b6f49eb-1bb9-4b71-af03-ee39b01076f4": {
+                    "net": "00d92161-6187-4f39-be50-1fba48c53833"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/9e8380b0-eaf3-423a-b55f-f8885f88473d": {
+                    "net": "b17c5226-7ee1-4b97-9848-66d84a36f5d8"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/b24158f4-8000-4d1a-b1ca-50c42ff64f9e": {
+                    "net": "a7cf30d3-9903-4d23-b5dc-fa082ee5152f"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/b8e4098f-d6aa-4bff-8931-f9e330c0ab42": {
+                    "net": "1f00107b-ed38-4cc5-8238-83fd0fad4174"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/b8e4ca16-a6d4-4440-a08d-3d34f0b45343": {
+                    "net": "f86a1f8d-be90-47cb-b66b-33a0ec8c3837"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/c10d9f89-bb41-4650-afe4-13ebd4b11270": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/cab63e7d-8bb6-4b39-bed8-7c186d2ad294": {
+                    "net": "9d4d3b42-5cdd-4c8f-aff9-8bf4932b072a"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/ce96e771-b1fd-4f3f-80ed-cff2809aa126": {
+                    "net": "a5171641-8230-4959-9114-8c7a9aac5236"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/cee5be68-daec-47d1-952e-b3655e759f93": {
+                    "net": "47f21bde-862e-4f46-aff8-f5e97b779bbb"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/d94643c7-606a-4506-9e3a-97561757fa6f": {
+                    "net": "c56a74de-dfe0-4612-9f84-690329a4f34f"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/d9e5ca19-b6f0-4db3-9f96-c92794e7fb20": {
+                    "net": "717120e4-1581-462d-8e86-7d26e807f90c"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/df392734-8443-4885-954a-43daf2020261": {
+                    "net": "b3970b51-f398-4938-9166-636586cc9844"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/e169a40e-030d-437f-afa2-7ad8e45daafe": {
+                    "net": "a5b2a8c4-4944-4b46-8ce2-7b49fb9198c2"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/f4d371d7-a44a-4946-9fcf-4910e4f19d20": {
+                    "net": "4a4559f7-0d1c-4f58-b2b3-5807d956e145"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/f6b52326-d80d-4939-8c0d-399726bb7225": {
+                    "net": "346a3bc3-070c-4ea5-ae53-90637c3ee311"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/f777319a-b947-40fb-84c5-365efa8f0621": {
+                    "net": "0b7574e4-7896-4156-b7e7-84ae05f0169b"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/f9626b47-7cae-4532-a3a5-8d0f9bffcb41": {
+                    "net": "c333543c-6120-45cd-8c66-c44357d65ae1"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/fb6080a5-d209-4233-ac7e-e91c562bb41a": {
+                    "net": "28b6b768-03ea-4ede-91e4-ae74d150b4d5"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/fef6883e-3243-4a37-a166-f6cbdb223f88": {
+                    "net": "2ab195d7-fbfe-4943-a4c5-9bdf3a5c8713"
+                },
+                "37b229b9-b672-4322-956d-820920d1ffc9/fff130e8-f9d1-4022-bd3d-05216a80a119": {
+                    "net": "e5eae264-5a25-4e3a-b9dd-8a086256c1d5"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "35ced229-ff15-4e47-8bad-a1ff3da03155",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "dd907a2d-052a-4e53-954b-cf53d8b7ac0b",
+            "pin_names": {},
+            "refdes": "NVME",
+            "tag": "ee6db64c-0abe-4262-9950-061438f8fccc",
+            "value": ""
+        },
+        "a5e52057-7879-475d-b755-a22ea6cc2d5b": {
+            "connections": {
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/79dc1645-1dd2-4d10-a12a-ac4426be1ee7": {
+                    "net": "8ed1ccc1-d506-4bc7-97b7-ae28db97cc14"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/9fb34e7c-856b-4413-8d12-28af8cc54529": {
+                    "net": "a7cf30d3-9903-4d23-b5dc-fa082ee5152f"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/b44c4791-5509-4fda-b027-ac181543a68a": {
+                    "net": "b17c5226-7ee1-4b97-9848-66d84a36f5d8"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/c28d4a18-905d-497d-8f4b-18b376769929": {
+                    "net": "a5b2a8c4-4944-4b46-8ce2-7b49fb9198c2"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/c55a5926-9adb-4da9-914f-ecbe44911478": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "7df8761c-9867-4b43-b018-5f5c3bfd0e6a",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "f68ab125-f11d-4c44-b998-531ae38ce1b6",
+            "pin_names": {},
+            "refdes": "USB",
+            "tag": "3cb49dec-2576-4780-b10e-f5912342d141",
+            "value": ""
+        },
+        "aeb10320-3325-4c95-927f-3b2fb488e177": {
+            "connections": {
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/79dc1645-1dd2-4d10-a12a-ac4426be1ee7": {
+                    "net": "479bca5d-f2da-434c-9f9a-e02f7e706a07"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/9fb34e7c-856b-4413-8d12-28af8cc54529": {
+                    "net": "35354407-e5ec-48da-9141-15a7fd780e3b"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/b44c4791-5509-4fda-b027-ac181543a68a": {
+                    "net": "bffdb231-ab18-41ff-8aaa-852bc1c78562"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/c28d4a18-905d-497d-8f4b-18b376769929": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/c55a5926-9adb-4da9-914f-ecbe44911478": {
+                    "net": "2ab195d7-fbfe-4943-a4c5-9bdf3a5c8713"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "7df8761c-9867-4b43-b018-5f5c3bfd0e6a",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "f68ab125-f11d-4c44-b998-531ae38ce1b6",
+            "pin_names": {},
+            "refdes": "STICK",
+            "tag": "189293e8-2ee8-4f8e-90be-07b0a1a0becc",
+            "value": ""
+        },
+        "b12f955f-c326-4c04-9ed2-603aed18aae3": {
+            "connections": {
+                "23766b63-6ffc-4831-baee-ba1635a735b3/1e7cd34f-86db-4b34-9e0b-c276756301ab": {
+                    "net": "28b6b768-03ea-4ede-91e4-ae74d150b4d5"
+                },
+                "23766b63-6ffc-4831-baee-ba1635a735b3/bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6": {
+                    "net": "f6bd830a-e369-4942-bc26-87b459cdc761"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "ca11f45a-cdd1-4c05-ab81-f1ea3c8754bb",
+            "pin_names": {},
+            "refdes": "C2",
+            "tag": "ace16759-ab9c-4b20-b1f2-ce1541a2d6b1",
+            "value": ""
+        },
+        "bf4c4262-478a-4202-ba31-f21d098a3beb": {
+            "connections": {
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/1803365d-f745-4921-a54f-c5df6afa6561": {
+                    "net": "f6bd830a-e369-4942-bc26-87b459cdc761"
+                },
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/4c0e5d34-b007-432d-880b-3a3b8e963a14": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/b22250f7-9956-4ac8-ada1-725b7ba800c8": {
+                    "net": "31988f7b-9ee0-43b8-8928-d2e27020b0f3"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "795937f6-a681-4a7b-a9c4-5902fb7811b7",
+            "pin_names": {},
+            "refdes": "AUDIO",
+            "tag": "851ab6ae-0539-49ba-a43f-803b16020952",
+            "value": ""
+        },
+        "c9a9c41a-ce79-4424-a09a-e0e292c1f790": {
+            "connections": {
+                "a96a662e-2077-467f-9853-a01865f76ad6/423d0d6c-4330-417f-a6f0-267741d4c770": {
+                    "net": "0b7574e4-7896-4156-b7e7-84ae05f0169b"
+                },
+                "a96a662e-2077-467f-9853-a01865f76ad6/4b3e1234-17b7-41dc-af26-90574ec82303": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "a96a662e-2077-467f-9853-a01865f76ad6/9c153b03-fb7b-4f99-a5ed-ca45d3ae512e": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "a96a662e-2077-467f-9853-a01865f76ad6/aab503ca-26da-43ff-a268-cf0db0698910": {
+                    "net": "0d00641f-fc85-4a24-8055-2b62979f3178"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "e42c077a-91ef-42ca-a45b-c55c9c2b3c58",
+            "pin_names": {},
+            "refdes": "SIDE_BUTTONS",
+            "tag": "1210aa51-d201-4269-aaea-52f5e155f636",
+            "value": ""
+        },
+        "e85a9ae4-fd23-4699-937d-8b65c29839d6": {
+            "connections": {
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/79dc1645-1dd2-4d10-a12a-ac4426be1ee7": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/9fb34e7c-856b-4413-8d12-28af8cc54529": {
+                    "net": "e5eae264-5a25-4e3a-b9dd-8a086256c1d5"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/b44c4791-5509-4fda-b027-ac181543a68a": {
+                    "net": "c4c6a709-a5c5-4841-98fb-0f8d98be86ab"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/c28d4a18-905d-497d-8f4b-18b376769929": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "fdf2cef9-c614-4909-a559-883ba8cf8cbb/c55a5926-9adb-4da9-914f-ecbe44911478": {
+                    "net": "c09b2f5d-2f0e-4a31-a24e-b0bb0926bad9"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "7df8761c-9867-4b43-b018-5f5c3bfd0e6a",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "f68ab125-f11d-4c44-b998-531ae38ce1b6",
+            "pin_names": {},
+            "refdes": "TOUCHPAD",
+            "tag": "982ef318-a1b5-4f4e-a6af-00467b73f9af",
+            "value": ""
+        },
+        "e8e194c9-030c-41e0-aabe-d90d955d6e80": {
+            "connections": {
+                "20edec02-8ea3-4110-859f-3bc8763413e9/12ae6a07-1a85-483d-9108-b5e6324cbe21": {
+                    "net": "c6694358-e2ab-4ad8-a0c8-640cb52cd5e1"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/15fabdd4-fee6-4be1-aece-3feb600803ec": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/18e66607-d746-4486-985f-551105de6ac8": {
+                    "net": "b3970b51-f398-4938-9166-636586cc9844"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/1dde94a9-6215-4762-ac6f-aed11687c202": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/256c7fa3-4d4e-44c7-a519-b58beeb29dc7": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/4e6dfed7-8128-4bfc-bc94-be4acc1782a2": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/7549aba0-6cbf-42cc-8fff-65bfcd239e46": {
+                    "net": "f86a1f8d-be90-47cb-b66b-33a0ec8c3837"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/8f6430ab-6328-4419-a391-76d66a9653ad": {
+                    "net": "68349391-7904-491b-8a3f-0b0e756c6028"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/9db63682-fc12-41c4-93ca-837bcc7803f0": {
+                    "net": "f36e48e2-1d65-46ca-86ec-606d720bd371"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/a685c5fb-bbd6-4f78-ba7a-cfe70695553a": {
+                    "net": "1f00107b-ed38-4cc5-8238-83fd0fad4174"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/ab25e15d-b8c6-4c08-9c82-6f5ef06d7231": {
+                    "net": "8d5e588c-4ca7-44dd-bc2f-8810455ff1b6"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/b05407d7-2fc7-4998-ab79-abeebb9afa4f": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/b2669572-d30f-4330-a060-ad102b437948": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/bc319494-5e62-4159-b223-3f1f3132f17c": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/d3011335-fc87-495f-bf25-4c9f96fe67e6": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "20edec02-8ea3-4110-859f-3bc8763413e9/f2b340c3-91b5-4988-9d2e-afc1cd5579fb": {
+                    "net": "c5026319-4d26-4f33-8cb1-240deb91ab99"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "25ec2415-b41a-4364-9fa8-f2178e91971b",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "35f00590-59eb-4f34-905b-57d67d1e93ed",
+            "pin_names": {},
+            "refdes": "BUTTONS",
+            "tag": "90686e02-3a64-41eb-8abc-da4fe99a67b8",
+            "value": ""
+        },
+        "ed457901-2687-42b7-b9c6-93297493d7e0": {
+            "connections": {
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/1803365d-f745-4921-a54f-c5df6afa6561": {
+                    "net": "7c751b41-e5e2-4db7-b1cd-ec1366f24a8b"
+                },
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/4c0e5d34-b007-432d-880b-3a3b8e963a14": {
+                    "net": "5f68734c-417a-4c0d-8f40-b2a44e53a457"
+                },
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/b22250f7-9956-4ac8-ada1-725b7ba800c8": {
+                    "net": "9406402c-8581-43dc-bab7-1c20993de2a9"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "795937f6-a681-4a7b-a9c4-5902fb7811b7",
+            "pin_names": {},
+            "refdes": "UART",
+            "tag": "dcfd20e8-b35b-4d2d-996d-c696c4ad72a7",
+            "value": ""
+        }
+    },
+    "group_names": {},
+    "name": "",
+    "net_class_default": "988d2046-530f-4865-a63d-fec8168c35f0",
+    "net_classes": {
+        "988d2046-530f-4865-a63d-fec8168c35f0": {
+            "name": "default"
+        }
+    },
+    "nets": {
+        "00d92161-6187-4f39-be50-1fba48c53833": {
+            "is_power": false,
+            "name": "SWCLK",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "0afe6455-d86e-4a9e-94d4-a6fb965652a7": {
+            "is_power": false,
+            "name": "LED_P4_K",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "0b7574e4-7896-4156-b7e7-84ae05f0169b": {
+            "is_power": false,
+            "name": "BUTTON_START",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "0d00641f-fc85-4a24-8055-2b62979f3178": {
+            "is_power": false,
+            "name": "BUTTON_SELECT",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "1f00107b-ed38-4cc5-8238-83fd0fad4174": {
+            "is_power": false,
+            "name": "BUTTON_L1",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "20ff5174-dc94-464a-a448-c3cd98491a00": {
+            "is_power": true,
+            "name": "3V3",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "antenna"
+        },
+        "2475eca2-07a3-44f1-a26a-9738ac2088c9": {
+            "is_power": false,
+            "name": "TP_INT",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "28b6b768-03ea-4ede-91e4-ae74d150b4d5": {
+            "is_power": false,
+            "name": "AUDIO_L",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "2ab195d7-fbfe-4943-a4c5-9bdf3a5c8713": {
+            "is_power": false,
+            "name": "STICK_UP",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "2bc713b7-7dd9-4986-a7c0-6eb847dfd998": {
+            "is_power": false,
+            "name": "FRONT_LED_K",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "31988f7b-9ee0-43b8-8928-d2e27020b0f3": {
+            "is_power": false,
+            "name": "",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "346a3bc3-070c-4ea5-ae53-90637c3ee311": {
+            "is_power": false,
+            "name": "LED_P1_K",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "35354407-e5ec-48da-9141-15a7fd780e3b": {
+            "is_power": false,
+            "name": "STICK_RIGHT",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "479bca5d-f2da-434c-9f9a-e02f7e706a07": {
+            "is_power": false,
+            "name": "STICK_DOWN",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "47f21bde-862e-4f46-aff8-f5e97b779bbb": {
+            "is_power": false,
+            "name": "BUTTON_TOUCHPAD",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "4a4559f7-0d1c-4f58-b2b3-5807d956e145": {
+            "is_power": false,
+            "name": "LED_P2_K",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "5f68734c-417a-4c0d-8f40-b2a44e53a457": {
+            "is_power": true,
+            "name": "GND",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "61adc93a-b771-4f5d-ba33-95f048e034fd": {
+            "is_power": false,
+            "name": "AUDIO_R",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "68349391-7904-491b-8a3f-0b0e756c6028": {
+            "is_power": false,
+            "name": "BUTTON_TRIANGLE",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "717120e4-1581-462d-8e86-7d26e807f90c": {
+            "is_power": false,
+            "name": "LED_P3_K",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "77f3af82-01a0-488d-9763-e87b4c1b9d06": {
+            "is_power": false,
+            "name": "SWDIO",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "7c751b41-e5e2-4db7-b1cd-ec1366f24a8b": {
+            "is_power": false,
+            "name": "UART_RX",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "8d5e588c-4ca7-44dd-bc2f-8810455ff1b6": {
+            "is_power": false,
+            "name": "BUTTON_R1",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "8ed1ccc1-d506-4bc7-97b7-ae28db97cc14": {
+            "is_power": false,
+            "name": "USB_SHIELD",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "9406402c-8581-43dc-bab7-1c20993de2a9": {
+            "is_power": false,
+            "name": "UART_TX",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "9d4d3b42-5cdd-4c8f-aff9-8bf4932b072a": {
+            "is_power": false,
+            "name": "MODE_LS",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "a5171641-8230-4959-9114-8c7a9aac5236": {
+            "is_power": false,
+            "name": "MODE_LOCK",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "a5b2a8c4-4944-4b46-8ce2-7b49fb9198c2": {
+            "is_power": false,
+            "name": "USB_VBUS",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "a7cf30d3-9903-4d23-b5dc-fa082ee5152f": {
+            "is_power": false,
+            "name": "USB_D-",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "b17c5226-7ee1-4b97-9848-66d84a36f5d8": {
+            "diffpair": "a7cf30d3-9903-4d23-b5dc-fa082ee5152f",
+            "is_power": false,
+            "name": "USB_D+",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "b3970b51-f398-4938-9166-636586cc9844": {
+            "is_power": false,
+            "name": "BUTTON_SQUARE",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "bffdb231-ab18-41ff-8aaa-852bc1c78562": {
+            "is_power": false,
+            "name": "STICK_LEFT",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "c09b2f5d-2f0e-4a31-a24e-b0bb0926bad9": {
+            "is_power": false,
+            "name": "TP_RST",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "c333543c-6120-45cd-8c66-c44357d65ae1": {
+            "is_power": false,
+            "name": "BUTTON_L3",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "c4c6a709-a5c5-4841-98fb-0f8d98be86ab": {
+            "is_power": false,
+            "name": "TP_SCL",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "c5026319-4d26-4f33-8cb1-240deb91ab99": {
+            "is_power": false,
+            "name": "BUTTON_CIRCLE",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "c56a74de-dfe0-4612-9f84-690329a4f34f": {
+            "is_power": false,
+            "name": "MODE_PS3",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "c6694358-e2ab-4ad8-a0c8-640cb52cd5e1": {
+            "is_power": false,
+            "name": "BUTTON_L2",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "c7b1841e-ffab-45db-8431-8cb123c6d1ee": {
+            "is_power": false,
+            "name": "MODE_RS",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "d732b8a4-e583-4aec-92aa-65af87580564": {
+            "is_power": false,
+            "name": "BUTTON_R3",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "e5eae264-5a25-4e3a-b9dd-8a086256c1d5": {
+            "is_power": false,
+            "name": "TP_SDA",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "e9769f7c-1c40-4d8b-9aab-08be5886318b": {
+            "is_power": false,
+            "name": "BUTTON_PS4",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "f36e48e2-1d65-46ca-86ec-606d720bd371": {
+            "is_power": false,
+            "name": "BUTTON_CROSS",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "f6bd830a-e369-4942-bc26-87b459cdc761": {
+            "is_power": false,
+            "name": "",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "f86a1f8d-be90-47cb-b66b-33a0ec8c3837": {
+            "is_power": false,
+            "name": "BUTTON_R2",
+            "net_class": "988d2046-530f-4865-a63d-fec8168c35f0",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        }
+    },
+    "project_meta": {
+        "author": "jmgao",
+        "date": "2021-02-03",
+        "project_name": "panthera",
+        "project_title": "Panthera",
+        "rev": "1"
+    },
+    "tag_names": {
+        "1210aa51-d201-4269-aaea-52f5e155f636": "7",
+        "189293e8-2ee8-4f8e-90be-07b0a1a0becc": "8",
+        "3cb49dec-2576-4780-b10e-f5912342d141": "10",
+        "44915439-caa2-4d17-8055-0d7e5117b802": "6",
+        "545d0c8e-8f5c-4590-8ad6-e3e5819402a8": "5",
+        "851ab6ae-0539-49ba-a43f-803b16020952": "10",
+        "90686e02-3a64-41eb-8abc-da4fe99a67b8": "1",
+        "982ef318-a1b5-4f4e-a6af-00467b73f9af": "9",
+        "ace16759-ab9c-4b20-b1f2-ce1541a2d6b1": "12",
+        "cb461991-f8b9-4e84-ab8a-d2683319cebd": "2",
+        "dcfd20e8-b35b-4d2d-996d-c696c4ad72a7": "4",
+        "ee6db64c-0abe-4262-9950-061438f8fccc": "0",
+        "efb7f6e4-6938-4ec9-824c-a9f4dcd548af": "11"
+    },
+    "uuid": "d4f7cd71-77f8-45a0-b5c5-954cca644f94"
+}

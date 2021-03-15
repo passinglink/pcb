@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "CSTNE12M2G55A000R0"
+    ],
+    "datasheet": [
+        false,
+        "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx"
+    ],
+    "description": [
+        false,
+        "12.288 MHz Ceramic Resonator"
+    ],
+    "entity": "af2936d9-7921-4d67-b84b-8882c445d099",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata Electronics"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "db9bec10-ebd8-4363-aca3-81031199d47f",
+    "pad_map": {
+        "542dc685-e1d7-4198-a441-d0fda3f99ade": {
+            "gate": "a836358f-a07b-4ce2-b63e-be57aa88412c",
+            "pin": "a7cebe10-185d-48f3-a2b4-b09f8d755038"
+        },
+        "ac22f04c-07e9-4622-a3cc-2307563dc3f3": {
+            "gate": "a836358f-a07b-4ce2-b63e-be57aa88412c",
+            "pin": "e9a9a34d-52ba-4820-b7f9-02b2e8b8c7ab"
+        },
+        "f1375d8a-3c6d-4fa1-924a-80300edbf0ab": {
+            "gate": "a836358f-a07b-4ce2-b63e-be57aa88412c",
+            "pin": "a1d855cc-db98-4dad-a72c-2aafacf8bee1"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "470306a3-b002-46ce-86f9-6e6cff4f11f7",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "Kailh Choc Socket with LED"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Kailh Choc Socket with LED"
+    ],
+    "entity": "8f401f35-b87a-4383-a6c7-8002ad8b360d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Kailh"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bcf51c19-8d7c-4fde-9275-ca75dd22bb83",
+    "pad_map": {
+        "43f9876c-47cf-40e9-8fde-b4f4f059a9d6": {
+            "gate": "5bf49dfc-6679-4344-a517-f11a43739ee3",
+            "pin": "a407c4c4-7b24-4077-8ab6-edd4b50f7602"
+        },
+        "5613ecf9-ddc1-4ddd-bb82-0c6f98809b34": {
+            "gate": "5bf49dfc-6679-4344-a517-f11a43739ee3",
+            "pin": "e7d9caf4-f5f5-4466-bd0f-0248453ff5b3"
+        },
+        "641662f3-0e0b-40ef-8cd3-7b0b87bac360": {
+            "gate": "5bf49dfc-6679-4344-a517-f11a43739ee3",
+            "pin": "2e4b4e9c-5089-4b8a-9049-8b45fe59f1f8"
+        },
+        "ac0830e7-4c55-4c32-bc0f-61909aa11403": {
+            "gate": "5bf49dfc-6679-4344-a517-f11a43739ee3",
+            "pin": "745e97f6-2b6d-4900-8ab5-13b1ac2c69b5"
+        },
+        "bdca3714-360c-40a0-aa0a-6365aa05277d": {
+            "gate": "7cfb84f7-9a74-485e-9bb6-247100724ba5",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        },
+        "c86254a1-fe65-4d3f-bf21-adacc1e3b0d3": {
+            "gate": "7cfb84f7-9a74-485e-9bb6-247100724ba5",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "pl",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "59936e02-7dca-4b84-a304-18bab7fe676a",
+    "value": [
+        false,
+        ""
+    ]
+}

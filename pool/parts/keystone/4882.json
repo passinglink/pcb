@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "4882"
+    ],
+    "datasheet": [
+        false,
+        "https://www.keyelco.com/product-pdf.cfm?p=14254"
+    ],
+    "description": [
+        false,
+        "4-40 SMT Threaded Standoff"
+    ],
+    "entity": "e738fcf2-bf36-46b2-8288-82f43aabca8a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Keystone"
+    ],
+    "model": "7a2a20a7-57b9-468a-8ae9-7b582bc815ef",
+    "orderable_MPNs": {
+        "5b8856b5-79e3-4b90-90f8-6c434791b0f1": "36-4882TR-ND",
+        "88cc170d-552a-414d-8998-9f1dc3726250": "534-4882"
+    },
+    "package": "019852e6-6dfa-4e55-8c2c-c3408f73832b",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [
+        "mounting",
+        "pl",
+        "stud"
+    ],
+    "type": "part",
+    "uuid": "1d95049b-ba5a-4bb5-b2da-d5cfae73778a",
+    "value": [
+        false,
+        ""
+    ]
+}

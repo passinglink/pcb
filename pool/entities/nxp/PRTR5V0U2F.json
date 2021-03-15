@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "68387272-2624-474f-8089-7f48005c5513": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e1190338-e355-465f-b7f2-44879612bdca"
+        }
+    },
+    "manufacturer": "Nexperia",
+    "name": "PRTR5V0U2F",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "pl"
+    ],
+    "type": "entity",
+    "uuid": "b8f29b41-d045-4ebf-a362-8da9051e71c1"
+}

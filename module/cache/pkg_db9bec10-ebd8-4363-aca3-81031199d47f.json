@@ -1,0 +1,173 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {
+        "6e481e15-5d78-4f20-a652-af2663e7c728": {
+            "position": [
+                -1200000,
+                1400000
+            ]
+        },
+        "9a56559b-b9c2-4917-9145-1201f82bfbd9": {
+            "position": [
+                1200000,
+                1400000
+            ]
+        },
+        "9ce69462-98b3-49c7-8426-0098723e1710": {
+            "position": [
+                1200000,
+                -1400000
+            ]
+        },
+        "c087727c-805c-4137-a66f-aee5a24837ea": {
+            "position": [
+                -1200000,
+                -1400000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "01ca7abf-9074-4ba9-b07a-1e11be34e04a": {
+            "from": "9a56559b-b9c2-4917-9145-1201f82bfbd9",
+            "layer": 20,
+            "to": "6e481e15-5d78-4f20-a652-af2663e7c728",
+            "width": 150000
+        },
+        "e4666763-2b44-4015-9d5e-88110e2ec6b5": {
+            "from": "c087727c-805c-4137-a66f-aee5a24837ea",
+            "layer": 20,
+            "to": "9ce69462-98b3-49c7-8426-0098723e1710",
+            "width": 150000
+        }
+    },
+    "manufacturer": "",
+    "models": {},
+    "name": "CSTNE____G",
+    "pads": {
+        "542dc685-e1d7-4198-a441-d0fda3f99ade": {
+            "name": "3",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 2000000,
+                "pad_width": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1200000,
+                    0
+                ]
+            }
+        },
+        "ac22f04c-07e9-4622-a3cc-2307563dc3f3": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 2000000,
+                "pad_width": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "f1375d8a-3c6d-4fa1-924a-80300edbf0ab": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 2000000,
+                "pad_width": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1200000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "bc4a5581-109d-4159-b9b5-00558373027a": {
+            "layer": 60,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1600000,
+                        -650000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1600000,
+                        650000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1600000,
+                        650000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1600000,
+                        -650000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "db9bec10-ebd8-4363-aca3-81031199d47f"
+}

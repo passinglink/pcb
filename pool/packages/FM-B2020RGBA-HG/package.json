@@ -1,0 +1,212 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {
+        "093230fe-bcca-462b-b6ad-8140946c660a": {
+            "position": [
+                1000000,
+                -1500000
+            ]
+        },
+        "25542592-6d70-4280-ade2-d528787bab07": {
+            "position": [
+                1500000,
+                -1500000
+            ]
+        },
+        "312fe110-c440-4f06-b2a5-d38ce14b7d72": {
+            "position": [
+                -1050000,
+                -1050000
+            ]
+        },
+        "36cc79e6-10b7-49ea-a7b8-b0371313a4d9": {
+            "position": [
+                -1500000,
+                -1500000
+            ]
+        },
+        "42e3e526-e753-424b-9588-3ac3ab56832d": {
+            "position": [
+                -1050000,
+                1050000
+            ]
+        },
+        "6004d3bb-1c81-434f-915e-dd87203330db": {
+            "position": [
+                1050000,
+                1050000
+            ]
+        },
+        "7738a04c-6ae0-49e5-aa23-19e8e2a0f766": {
+            "position": [
+                1500000,
+                1500000
+            ]
+        },
+        "7ef385f5-9d44-429b-b099-3e2bffba0ba8": {
+            "position": [
+                -1500000,
+                1500000
+            ]
+        },
+        "a197261d-d57a-4d05-b2dc-78f0169f63c3": {
+            "position": [
+                1500000,
+                -1000000
+            ]
+        },
+        "f60da927-356c-414d-b51e-d89405f75183": {
+            "position": [
+                1050000,
+                -1050000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "1c6afb36-814d-4be5-bb44-03d0a9673b14": {
+            "from": "42e3e526-e753-424b-9588-3ac3ab56832d",
+            "layer": 60,
+            "to": "6004d3bb-1c81-434f-915e-dd87203330db",
+            "width": 0
+        },
+        "1d3afbc9-897f-4b8c-9fe0-7c92bb02ccd5": {
+            "from": "6004d3bb-1c81-434f-915e-dd87203330db",
+            "layer": 60,
+            "to": "f60da927-356c-414d-b51e-d89405f75183",
+            "width": 0
+        },
+        "362652e9-d300-47d5-8505-f3570483564a": {
+            "from": "7738a04c-6ae0-49e5-aa23-19e8e2a0f766",
+            "layer": 20,
+            "to": "25542592-6d70-4280-ade2-d528787bab07",
+            "width": 150000
+        },
+        "432d5056-c4e2-4f33-918b-e966f35f7d7b": {
+            "from": "f60da927-356c-414d-b51e-d89405f75183",
+            "layer": 60,
+            "to": "312fe110-c440-4f06-b2a5-d38ce14b7d72",
+            "width": 0
+        },
+        "5460987e-77af-44e9-b74d-68ee97647ee2": {
+            "from": "312fe110-c440-4f06-b2a5-d38ce14b7d72",
+            "layer": 60,
+            "to": "42e3e526-e753-424b-9588-3ac3ab56832d",
+            "width": 0
+        },
+        "89c6847e-c6ff-40c3-a2f0-415376c8de44": {
+            "from": "25542592-6d70-4280-ade2-d528787bab07",
+            "layer": 20,
+            "to": "36cc79e6-10b7-49ea-a7b8-b0371313a4d9",
+            "width": 150000
+        },
+        "bc7916d2-5b58-4f91-b5fe-a2915024d066": {
+            "from": "7ef385f5-9d44-429b-b099-3e2bffba0ba8",
+            "layer": 20,
+            "to": "7738a04c-6ae0-49e5-aa23-19e8e2a0f766",
+            "width": 150000
+        },
+        "f3343e57-18dc-47a7-897d-3e3dbb85364b": {
+            "from": "093230fe-bcca-462b-b6ad-8140946c660a",
+            "layer": 20,
+            "to": "a197261d-d57a-4d05-b2dc-78f0169f63c3",
+            "width": 150000
+        },
+        "f8046f8c-3055-414c-a136-687229c1fc93": {
+            "from": "36cc79e6-10b7-49ea-a7b8-b0371313a4d9",
+            "layer": 20,
+            "to": "7ef385f5-9d44-429b-b099-3e2bffba0ba8",
+            "width": 150000
+        }
+    },
+    "manufacturer": "",
+    "models": {},
+    "name": "FM-B2020RGBA-HG",
+    "pads": {
+        "35db4735-b455-452d-bd73-cc4e46076c7a": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 800000,
+                "pad_width": 700000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    850000,
+                    -550000
+                ]
+            }
+        },
+        "36864e8b-9006-4cdd-bb17-04922afb99c7": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 800000,
+                "pad_width": 700000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -850000,
+                    -550000
+                ]
+            }
+        },
+        "d09f1818-ad9e-4881-b374-bc4f124fc613": {
+            "name": "3",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 800000,
+                "pad_width": 700000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -850000,
+                    550000
+                ]
+            }
+        },
+        "f7d1a143-67cc-4dfc-aeb4-66be7fbe43bd": {
+            "name": "4",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 800000,
+                "pad_width": 700000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    850000,
+                    550000
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "015aa551-a63e-4441-8832-74add7652775"
+}

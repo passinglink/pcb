@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "3bdb1573-4b9a-4146-a030-ccf8c6b796e4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "403d4e28-88ea-4007-8d38-71e606d59ee7"
+        }
+    },
+    "manufacturer": "Micrel",
+    "name": "MIC5219-3.3BMM",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "dfbc4b45-9433-46fa-9b7c-8bc603f54a66"
+}

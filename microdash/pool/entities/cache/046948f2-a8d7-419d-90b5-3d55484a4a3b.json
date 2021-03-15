@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "ed0daf7f-de53-4166-addd-ad2541e0e459": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "fb6fed6e-93d2-4ddf-8624-d654999709ae"
+        }
+    },
+    "manufacturer": "CDEbyte",
+    "name": "E73-2G4M08S1C",
+    "prefix": "U",
+    "tags": [
+        "mcu",
+        "pl"
+    ],
+    "type": "entity",
+    "uuid": "046948f2-a8d7-419d-90b5-3d55484a4a3b"
+}

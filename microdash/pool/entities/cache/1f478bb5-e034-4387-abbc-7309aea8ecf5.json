@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "3d05642a-501f-4b1b-872e-da15bf9c29fa": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "abbcd796-c924-4b20-9a4d-e97b8a5a6cc6"
+        }
+    },
+    "manufacturer": "Nexperia",
+    "name": "PESD5V0L1BA,115",
+    "prefix": "D",
+    "tags": [
+        "diode"
+    ],
+    "type": "entity",
+    "uuid": "1f478bb5-e034-4387-abbc-7309aea8ecf5"
+}
